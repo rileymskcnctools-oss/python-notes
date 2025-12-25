@@ -1,0 +1,1201 @@
+order_id,customer_id,customer_name,country,product_category,product_name,quantity,unit_price,unit_cost,order_date
+TE240001,C1328,Customer_58,Germany,CNC Cutting Tools,Ball Nose End Mill,41,35.0,14.0,2024-04-24
+TE240002,C1072,Customer_378,USA,Hand Tools,Watering Can,379,6.0,2.4,2024-02-14
+TE240003,C1303,Customer_217,Germany,CNC Cutting Tools,Indexable Insert TNMG1604,37,3.8,1.5,2024-04-29
+TE240004,C1259,Customer_309,Germany,CNC Cutting Tools,Face Mill Cutter,93,120.0,48.0,2024-12-25
+TE240005,C1280,Customer_215,France,CNC Cutting Tools,Lathe Tool Bit,45,18.0,7.2,2024-01-04
+TE240006,C1389,Customer_413,UK,CNC Cutting Tools,Slotting Cutter,53,80.0,32.0,2024-05-22
+TE240007,C1080,Customer_111,Egypt,CNC Cutting Tools,Threading Tap M8,23,5.0,2.0,2024-02-17
+TE240008,C1195,Customer_50,Canada,Hand Tools,Iron Rake,409,7.5,3.0,2024-05-15
+TE240009,C1414,Customer_23,Sweden,Hand Tools,Pruning Shears,163,12.0,4.8,2024-07-12
+TE240010,C1041,Customer_283,Japan,CNC Cutting Tools,Milling Cutter Set,89,300.0,120.0,2024-07-04
+TE240011,C1296,Customer_99,Spain,CNC Cutting Tools,Carbide End Mill Φ6mm,94,25.0,10.5,2024-04-26
+TE240012,C1396,Customer_149,South Africa,Hand Tools,Wheelbarrow,219,45.0,18.0,2024-02-21
+TE240013,C1195,Customer_143,Australia,Hand Tools,Wheelbarrow,286,45.0,18.0,2024-03-24
+TE240014,C1190,Customer_182,France,CNC Cutting Tools,Ball Nose End Mill,99,35.0,14.0,2024-12-15
+TE240015,C1332,Customer_37,Brazil,CNC Cutting Tools,Drill Bit Φ10mm,78,30.0,12.0,2024-05-05
+TE240016,C1084,Customer_237,Canada,CNC Cutting Tools,Milling Cutter Set,98,300.0,120.0,2024-10-12
+TE240017,C1113,Customer_351,Japan,CNC Cutting Tools,Carbide End Mill Φ6mm,39,25.0,10.5,2024-01-17
+TE240018,C1413,Customer_162,Canada,CNC Cutting Tools,Indexable Insert TNMG1604,37,3.8,1.5,2024-10-17
+TE240019,C1449,Customer_368,Japan,CNC Cutting Tools,Milling Cutter Set,73,300.0,120.0,2024-07-21
+TE240020,C1453,Customer_469,Mexico,Hand Tools,Steel Shovel,235,7.2,2.9,2024-03-12
+TE240021,C1127,Customer_382,Thailand,Hand Tools,Mini Garden Trowel,482,5.0,2.0,2024-10-26
+TE240022,C1220,Customer_460,Thailand,CNC Cutting Tools,Threading Tap M8,38,5.0,2.0,2024-03-11
+TE240023,C1261,Customer_253,USA,CNC Cutting Tools,Carbide End Mill Φ6mm,24,25.0,10.5,2024-03-19
+TE240024,C1322,Customer_82,Nigeria,Hand Tools,Steel Mattock,405,8.5,3.4,2024-02-02
+TE240025,C1198,Customer_196,Brazil,Hand Tools,Garden Fork,370,6.8,2.7,2024-05-08
+TE240026,C1498,Customer_284,Uganda,Hand Tools,Steel Pickaxe,448,8.0,3.2,2024-02-28
+TE240027,C1350,Customer_454,Vietnam,CNC Cutting Tools,Ball Nose End Mill,92,35.0,14.0,2024-06-23
+TE240028,C1058,Customer_151,Australia,CNC Cutting Tools,Reamer Φ12mm,10,40.0,16.0,2024-05-14
+TE240029,C1498,Customer_257,Sweden,Hand Tools,Pruning Shears,154,12.0,4.8,2024-11-16
+TE240030,C1153,Customer_431,Mexico,CNC Cutting Tools,Lathe Tool Bit,35,18.0,7.2,2024-03-19
+TE240031,C1192,Customer_391,UK,CNC Cutting Tools,End Mill Holder,10,50.0,20.0,2024-11-02
+TE240032,C1166,Customer_251,Germany,CNC Cutting Tools,Threading Tap M8,49,5.0,2.0,2024-05-02
+TE240033,C1030,Customer_124,Uganda,CNC Cutting Tools,Indexable Insert TNMG1604,20,3.8,1.5,2024-09-05
+TE240034,C1418,Customer_36,South Africa,Hand Tools,Pruning Shears,492,12.0,4.8,2024-03-05
+TE240035,C1066,Customer_338,India,Hand Tools,Pruning Shears,184,12.0,4.8,2024-05-15
+TE240036,C1271,Customer_447,Brazil,Hand Tools,Wooden Handle Axe,376,9.0,3.6,2024-12-19
+TE240037,C1103,Customer_366,Japan,CNC Cutting Tools,Milling Cutter Set,93,300.0,120.0,2024-07-10
+TE240038,C1225,Customer_461,Vietnam,CNC Cutting Tools,Indexable Insert TNMG1604,41,3.8,1.5,2024-04-25
+TE240039,C1033,Customer_174,Germany,CNC Cutting Tools,End Mill Holder,39,50.0,20.0,2024-10-28
+TE240040,C1113,Customer_4,USA,CNC Cutting Tools,Milling Cutter Set,17,300.0,120.0,2024-04-27
+TE240041,C1035,Customer_464,Germany,CNC Cutting Tools,Threading Tap M8,19,5.0,2.0,2024-09-20
+TE240042,C1122,Customer_143,Mexico,Hand Tools,Wooden Handle Axe,376,9.0,3.6,2024-03-08
+TE240043,C1371,Customer_479,Uganda,CNC Cutting Tools,Lathe Tool Bit,70,18.0,7.2,2024-05-04
+TE240044,C1402,Customer_243,Kenya,Hand Tools,Wooden Handle Axe,148,9.0,3.6,2024-02-19
+TE240045,C1338,Customer_221,Canada,CNC Cutting Tools,Slotting Cutter,69,80.0,32.0,2024-01-28
+TE240046,C1345,Customer_335,South Africa,Hand Tools,Garden Hoe,131,6.5,2.6,2024-07-25
+TE240047,C1373,Customer_174,Kenya,Hand Tools,Garden Hoe,227,6.5,2.6,2024-04-08
+TE240048,C1098,Customer_275,Australia,CNC Cutting Tools,Slotting Cutter,33,80.0,32.0,2024-05-22
+TE240049,C1237,Customer_128,Uganda,Hand Tools,Garden Hoe,326,6.5,2.6,2024-10-08
+TE240050,C1051,Customer_26,Mexico,CNC Cutting Tools,End Mill Holder,11,50.0,20.0,2024-02-17
+TE240051,C1475,Customer_386,Ghana,Hand Tools,Steel Shovel,308,7.2,2.9,2024-09-05
+TE240052,C1247,Customer_110,Uganda,Hand Tools,Seedling Tray,130,3.5,1.4,2024-03-25
+TE240053,C1195,Customer_2,South Africa,Hand Tools,Mini Garden Trowel,332,5.0,2.0,2024-05-26
+TE240054,C1217,Customer_357,Egypt,Hand Tools,Gardening Gloves,384,4.0,1.6,2024-12-04
+TE240055,C1368,Customer_250,UK,CNC Cutting Tools,Ball Nose End Mill,37,35.0,14.0,2024-01-30
+TE240056,C1297,Customer_377,Vietnam,Hand Tools,Watering Can,260,6.0,2.4,2024-01-30
+TE240057,C1026,Customer_300,India,CNC Cutting Tools,End Mill Holder,30,50.0,20.0,2024-01-30
+TE240058,C1492,Customer_261,USA,CNC Cutting Tools,Drill Bit Φ10mm,18,30.0,12.0,2024-10-31
+TE240059,C1035,Customer_346,Uganda,CNC Cutting Tools,Slotting Cutter,25,80.0,32.0,2024-10-18
+TE240060,C1127,Customer_297,Brazil,Hand Tools,Hoe with Long Handle,141,7.0,2.8,2024-08-02
+TE240061,C1337,Customer_299,Thailand,Hand Tools,Iron Rake,233,7.5,3.0,2024-04-14
+TE240062,C1343,Customer_367,Japan,CNC Cutting Tools,Ball Nose End Mill,60,35.0,14.0,2024-03-08
+TE240063,C1344,Customer_331,Japan,Hand Tools,Iron Rake,484,7.5,3.0,2024-02-07
+TE240064,C1005,Customer_235,Brazil,Hand Tools,Hoe with Long Handle,151,7.0,2.8,2024-02-07
+TE240065,C1276,Customer_110,India,Hand Tools,Steel Shovel,278,7.2,2.9,2024-02-05
+TE240066,C1451,Customer_126,Canada,CNC Cutting Tools,Drill Bit Φ10mm,66,30.0,12.0,2024-10-05
+TE240067,C1361,Customer_155,Brazil,CNC Cutting Tools,Milling Cutter Set,77,300.0,120.0,2024-01-05
+TE240068,C1342,Customer_419,Thailand,Hand Tools,Seedling Tray,439,3.5,1.4,2024-02-23
+TE240069,C1481,Customer_450,UK,CNC Cutting Tools,Indexable Insert TNMG1604,23,3.8,1.5,2024-10-10
+TE240070,C1080,Customer_140,Italy,Hand Tools,Wooden Handle Axe,467,9.0,3.6,2024-06-24
+TE240071,C1105,Customer_352,Brazil,Hand Tools,Mini Garden Trowel,358,5.0,2.0,2024-09-07
+TE240072,C1129,Customer_464,Cameroon,CNC Cutting Tools,Carbide End Mill Φ6mm,21,25.0,10.5,2024-11-20
+TE240073,C1217,Customer_425,Italy,CNC Cutting Tools,Carbide End Mill Φ6mm,52,25.0,10.5,2024-03-07
+TE240074,C1327,Customer_135,UK,Hand Tools,Garden Fork,382,6.8,2.7,2024-12-27
+TE240075,C1219,Customer_288,Germany,CNC Cutting Tools,Indexable Insert TNMG1604,98,3.8,1.5,2024-03-17
+TE240076,C1280,Customer_19,Ghana,Hand Tools,Hoe with Long Handle,382,7.0,2.8,2024-03-16
+TE240077,C1221,Customer_66,Germany,CNC Cutting Tools,Threading Tap M8,15,5.0,2.0,2024-07-02
+TE240078,C1108,Customer_350,Italy,CNC Cutting Tools,Indexable Insert TNMG1604,55,3.8,1.5,2024-10-13
+TE240079,C1453,Customer_448,Australia,CNC Cutting Tools,Lathe Tool Bit,29,18.0,7.2,2024-05-01
+TE240080,C1443,Customer_84,South Africa,CNC Cutting Tools,Drill Bit Φ10mm,62,30.0,12.0,2024-01-13
+TE240081,C1092,Customer_378,Senegal,Hand Tools,Gardening Gloves,310,4.0,1.6,2024-12-08
+TE240082,C1443,Customer_377,Kenya,Hand Tools,Mini Garden Trowel,181,5.0,2.0,2024-12-25
+TE240083,C1056,Customer_196,Uganda,Hand Tools,Wheelbarrow,340,45.0,18.0,2024-04-23
+TE240084,C1103,Customer_419,Senegal,CNC Cutting Tools,Threading Tap M8,49,5.0,2.0,2024-04-26
+TE240085,C1115,Customer_13,Mexico,Hand Tools,Steel Mattock,268,8.5,3.4,2024-05-22
+TE240086,C1443,Customer_36,Egypt,Hand Tools,Mini Garden Trowel,279,5.0,2.0,2024-11-24
+TE240087,C1261,Customer_205,Mexico,Hand Tools,Wheelbarrow,374,45.0,18.0,2024-06-18
+TE240088,C1481,Customer_15,USA,CNC Cutting Tools,Ball Nose End Mill,32,35.0,14.0,2024-10-24
+TE240089,C1493,Customer_136,Germany,Hand Tools,Hoe with Long Handle,322,7.0,2.8,2024-06-25
+TE240090,C1374,Customer_403,Japan,CNC Cutting Tools,Lathe Tool Bit,75,18.0,7.2,2024-02-29
+TE240091,C1198,Customer_461,Thailand,CNC Cutting Tools,Ball Nose End Mill,15,35.0,14.0,2024-12-28
+TE240092,C1224,Customer_1,Vietnam,Hand Tools,Gardening Gloves,375,4.0,1.6,2024-12-17
+TE240093,C1369,Customer_482,Sweden,Hand Tools,Hand Saw,200,10.0,4.0,2024-07-05
+TE240094,C1221,Customer_36,Egypt,Hand Tools,Seedling Tray,269,3.5,1.4,2024-11-15
+TE240095,C1161,Customer_340,Ghana,Hand Tools,Watering Can,253,6.0,2.4,2024-09-16
+TE240096,C1159,Customer_342,Australia,CNC Cutting Tools,Slotting Cutter,99,80.0,32.0,2024-05-31
+TE240097,C1284,Customer_66,France,CNC Cutting Tools,Milling Cutter Set,58,300.0,120.0,2024-12-12
+TE240098,C1384,Customer_463,France,CNC Cutting Tools,Lathe Tool Bit,48,18.0,7.2,2024-07-26
+TE240099,C1281,Customer_427,Germany,CNC Cutting Tools,Ball Nose End Mill,36,35.0,14.0,2024-08-08
+TE240100,C1403,Customer_297,Brazil,CNC Cutting Tools,Threading Tap M8,69,5.0,2.0,2024-08-14
+TE240101,C1227,Customer_346,France,CNC Cutting Tools,Reamer Φ12mm,31,40.0,16.0,2024-12-03
+TE240102,C1044,Customer_146,Vietnam,Hand Tools,Hand Saw,417,10.0,4.0,2024-06-20
+TE240103,C1048,Customer_420,Egypt,Hand Tools,Wooden Handle Axe,444,9.0,3.6,2024-06-07
+TE240104,C1116,Customer_413,France,CNC Cutting Tools,Carbide End Mill Φ6mm,15,25.0,10.5,2024-05-05
+TE240105,C1244,Customer_313,Ghana,Hand Tools,Garden Hoe,333,6.5,2.6,2024-07-31
+TE240106,C1454,Customer_323,Thailand,Hand Tools,Watering Can,456,6.0,2.4,2024-07-15
+TE240107,C1254,Customer_205,Italy,CNC Cutting Tools,Milling Cutter Set,98,300.0,120.0,2024-01-03
+TE240108,C1458,Customer_385,Uganda,Hand Tools,Seedling Tray,154,3.5,1.4,2024-08-05
+TE240109,C1113,Customer_91,Kenya,Hand Tools,Watering Can,365,6.0,2.4,2024-08-25
+TE240110,C1026,Customer_286,Italy,CNC Cutting Tools,Indexable Insert TNMG1604,68,3.8,1.5,2024-03-09
+TE240111,C1411,Customer_238,Mexico,Hand Tools,Pruning Shears,404,12.0,4.8,2024-06-11
+TE240112,C1487,Customer_387,Cameroon,CNC Cutting Tools,Lathe Tool Bit,74,18.0,7.2,2024-08-06
+TE240113,C1426,Customer_465,Vietnam,Hand Tools,Seedling Tray,181,3.5,1.4,2024-08-31
+TE240114,C1231,Customer_133,Sweden,Hand Tools,Wheelbarrow,426,45.0,18.0,2024-05-21
+TE240115,C1393,Customer_399,Vietnam,Hand Tools,Hand Saw,222,10.0,4.0,2024-05-20
+TE240116,C1226,Customer_40,Spain,Hand Tools,Wooden Handle Axe,239,9.0,3.6,2024-06-20
+TE240117,C1164,Customer_458,Vietnam,Hand Tools,Steel Shovel,177,7.2,2.9,2024-04-28
+TE240118,C1197,Customer_356,UK,CNC Cutting Tools,Face Mill Cutter,18,120.0,48.0,2024-07-31
+TE240119,C1209,Customer_170,Vietnam,Hand Tools,Steel Mattock,131,8.5,3.4,2024-04-15
+TE240120,C1427,Customer_216,Canada,CNC Cutting Tools,Lathe Tool Bit,99,18.0,7.2,2024-01-11
+TE240121,C1439,Customer_451,Sweden,Hand Tools,Steel Mattock,344,8.5,3.4,2024-01-04
+TE240122,C1483,Customer_181,Japan,Hand Tools,Steel Mattock,314,8.5,3.4,2024-10-02
+TE240123,C1383,Customer_377,Vietnam,Hand Tools,Hoe with Long Handle,212,7.0,2.8,2024-09-06
+TE240124,C1113,Customer_140,Australia,CNC Cutting Tools,Carbide End Mill Φ6mm,59,25.0,10.5,2024-06-21
+TE240125,C1343,Customer_348,Kenya,Hand Tools,Watering Can,184,6.0,2.4,2024-08-27
+TE240126,C1471,Customer_66,South Africa,Hand Tools,Pruning Shears,113,12.0,4.8,2024-07-20
+TE240127,C1304,Customer_289,Mexico,Hand Tools,Garden Hoe,429,6.5,2.6,2024-08-07
+TE240128,C1070,Customer_444,Australia,Hand Tools,Steel Pickaxe,233,8.0,3.2,2024-07-13
+TE240129,C1168,Customer_109,Australia,CNC Cutting Tools,Threading Tap M8,58,5.0,2.0,2024-05-22
+TE240130,C1386,Customer_488,Ghana,Hand Tools,Mini Garden Trowel,141,5.0,2.0,2024-08-28
+TE240131,C1010,Customer_384,Vietnam,Hand Tools,Iron Rake,214,7.5,3.0,2024-11-28
+TE240132,C1036,Customer_400,Egypt,Hand Tools,Steel Pickaxe,486,8.0,3.2,2024-01-16
+TE240133,C1487,Customer_127,France,CNC Cutting Tools,Carbide End Mill Φ6mm,89,25.0,10.5,2024-03-19
+TE240134,C1123,Customer_65,India,Hand Tools,Garden Hoe,388,6.5,2.6,2024-04-21
+TE240135,C1239,Customer_359,Italy,Hand Tools,Iron Rake,185,7.5,3.0,2024-11-06
+TE240136,C1311,Customer_494,Sweden,Hand Tools,Garden Hoe,498,6.5,2.6,2024-03-24
+TE240137,C1494,Customer_160,USA,CNC Cutting Tools,Carbide End Mill Φ6mm,49,25.0,10.5,2024-10-21
+TE240138,C1347,Customer_465,Egypt,Hand Tools,Steel Mattock,466,8.5,3.4,2024-04-11
+TE240139,C1039,Customer_304,Spain,Hand Tools,Hand Saw,224,10.0,4.0,2024-02-22
+TE240140,C1357,Customer_396,Japan,Hand Tools,Hand Saw,407,10.0,4.0,2024-03-02
+TE240141,C1408,Customer_290,Nigeria,Hand Tools,Iron Rake,372,7.5,3.0,2024-08-07
+TE240142,C1339,Customer_190,USA,CNC Cutting Tools,Milling Cutter Set,53,300.0,120.0,2024-01-07
+TE240143,C1435,Customer_216,Kenya,Hand Tools,Garden Hoe,321,6.5,2.6,2024-07-04
+TE240144,C1326,Customer_457,Ghana,Hand Tools,Watering Can,178,6.0,2.4,2024-08-10
+TE240145,C1091,Customer_376,Vietnam,Hand Tools,Hand Saw,238,10.0,4.0,2024-11-11
+TE240146,C1414,Customer_471,Vietnam,CNC Cutting Tools,Reamer Φ12mm,69,40.0,16.0,2024-08-11
+TE240147,C1423,Customer_375,Thailand,Hand Tools,Iron Rake,225,7.5,3.0,2024-02-14
+TE240148,C1143,Customer_452,Australia,CNC Cutting Tools,Reamer Φ12mm,82,40.0,16.0,2024-11-08
+TE240149,C1343,Customer_195,Japan,CNC Cutting Tools,Reamer Φ12mm,51,40.0,16.0,2024-04-03
+TE240150,C1250,Customer_109,Canada,CNC Cutting Tools,Ball Nose End Mill,53,35.0,14.0,2024-05-23
+TE240151,C1451,Customer_306,Spain,Hand Tools,Mini Garden Trowel,384,5.0,2.0,2024-01-06
+TE240152,C1265,Customer_486,France,CNC Cutting Tools,Face Mill Cutter,62,120.0,48.0,2024-09-07
+TE240153,C1285,Customer_389,Italy,CNC Cutting Tools,Reamer Φ12mm,92,40.0,16.0,2024-12-30
+TE240154,C1252,Customer_230,Nigeria,Hand Tools,Garden Hoe,250,6.5,2.6,2024-04-23
+TE240155,C1208,Customer_355,Italy,Hand Tools,Hand Saw,397,10.0,4.0,2024-07-07
+TE240156,C1243,Customer_284,Vietnam,Hand Tools,Steel Mattock,481,8.5,3.4,2024-10-08
+TE240157,C1170,Customer_181,Spain,Hand Tools,Mini Garden Trowel,256,5.0,2.0,2024-05-08
+TE240158,C1119,Customer_62,Spain,Hand Tools,Iron Rake,161,7.5,3.0,2024-10-01
+TE240159,C1487,Customer_391,Spain,Hand Tools,Wooden Handle Axe,210,9.0,3.6,2024-09-04
+TE240160,C1142,Customer_371,Thailand,Hand Tools,Gardening Gloves,368,4.0,1.6,2024-11-01
+TE240161,C1145,Customer_52,Ghana,Hand Tools,Mini Garden Trowel,216,5.0,2.0,2024-07-03
+TE240162,C1092,Customer_155,Germany,CNC Cutting Tools,End Mill Holder,26,50.0,20.0,2024-05-20
+TE240163,C1024,Customer_499,Germany,CNC Cutting Tools,Ball Nose End Mill,99,35.0,14.0,2024-03-05
+TE240164,C1327,Customer_445,Sweden,Hand Tools,Garden Hoe,106,6.5,2.6,2024-10-20
+TE240165,C1146,Customer_241,India,CNC Cutting Tools,Threading Tap M8,33,5.0,2.0,2024-01-27
+TE240166,C1130,Customer_482,Uganda,Hand Tools,Garden Hoe,133,6.5,2.6,2024-07-24
+TE240167,C1252,Customer_38,Thailand,Hand Tools,Hand Saw,127,10.0,4.0,2024-03-18
+TE240168,C1077,Customer_416,Thailand,CNC Cutting Tools,Ball Nose End Mill,20,35.0,14.0,2024-05-07
+TE240169,C1061,Customer_286,Sweden,CNC Cutting Tools,Lathe Tool Bit,86,18.0,7.2,2024-11-12
+TE240170,C1116,Customer_398,Vietnam,Hand Tools,Garden Fork,326,6.8,2.7,2024-06-01
+TE240171,C1441,Customer_302,South Africa,Hand Tools,Mini Garden Trowel,391,5.0,2.0,2024-11-13
+TE240172,C1031,Customer_313,Egypt,CNC Cutting Tools,Indexable Insert TNMG1604,36,3.8,1.5,2024-11-16
+TE240173,C1109,Customer_136,Mexico,Hand Tools,Steel Shovel,222,7.2,2.9,2024-03-29
+TE240174,C1283,Customer_39,UK,CNC Cutting Tools,Slotting Cutter,67,80.0,32.0,2024-12-18
+TE240175,C1305,Customer_241,Japan,CNC Cutting Tools,Face Mill Cutter,46,120.0,48.0,2024-12-27
+TE240176,C1145,Customer_360,Uganda,CNC Cutting Tools,Indexable Insert TNMG1604,97,3.8,1.5,2024-04-29
+TE240177,C1474,Customer_136,Nigeria,Hand Tools,Hand Saw,401,10.0,4.0,2024-12-04
+TE240178,C1412,Customer_479,France,CNC Cutting Tools,Indexable Insert TNMG1604,79,3.8,1.5,2024-04-25
+TE240179,C1332,Customer_77,Cameroon,Hand Tools,Wheelbarrow,172,45.0,18.0,2024-02-06
+TE240180,C1031,Customer_85,Nigeria,CNC Cutting Tools,Lathe Tool Bit,82,18.0,7.2,2024-05-27
+TE240181,C1225,Customer_64,India,Hand Tools,Mini Garden Trowel,458,5.0,2.0,2024-07-25
+TE240182,C1483,Customer_140,India,CNC Cutting Tools,Reamer Φ12mm,66,40.0,16.0,2024-02-11
+TE240183,C1307,Customer_21,Cameroon,Hand Tools,Watering Can,265,6.0,2.4,2024-11-05
+TE240184,C1129,Customer_14,USA,Hand Tools,Hand Saw,394,10.0,4.0,2024-10-27
+TE240185,C1487,Customer_11,South Africa,Hand Tools,Hand Saw,237,10.0,4.0,2024-10-22
+TE240186,C1021,Customer_391,Sweden,Hand Tools,Garden Fork,365,6.8,2.7,2024-11-29
+TE240187,C1227,Customer_470,Italy,Hand Tools,Hoe with Long Handle,323,7.0,2.8,2024-11-21
+TE240188,C1417,Customer_252,Egypt,Hand Tools,Garden Fork,278,6.8,2.7,2024-07-28
+TE240189,C1171,Customer_165,Mexico,Hand Tools,Wheelbarrow,182,45.0,18.0,2024-06-17
+TE240190,C1211,Customer_356,India,Hand Tools,Hand Saw,305,10.0,4.0,2024-10-08
+TE240191,C1019,Customer_233,USA,CNC Cutting Tools,Ball Nose End Mill,51,35.0,14.0,2024-02-29
+TE240192,C1497,Customer_396,Canada,Hand Tools,Pruning Shears,100,12.0,4.8,2024-12-02
+TE240193,C1446,Customer_278,Australia,Hand Tools,Steel Pickaxe,196,8.0,3.2,2024-09-22
+TE240194,C1186,Customer_319,Sweden,Hand Tools,Hand Saw,326,10.0,4.0,2024-01-27
+TE240195,C1105,Customer_137,Vietnam,Hand Tools,Seedling Tray,247,3.5,1.4,2024-08-12
+TE240196,C1451,Customer_358,India,Hand Tools,Steel Pickaxe,422,8.0,3.2,2024-11-07
+TE240197,C1410,Customer_123,Spain,Hand Tools,Mini Garden Trowel,382,5.0,2.0,2024-01-08
+TE240198,C1283,Customer_209,USA,Hand Tools,Wheelbarrow,158,45.0,18.0,2024-08-24
+TE240199,C1485,Customer_61,Mexico,Hand Tools,Steel Shovel,355,7.2,2.9,2024-05-29
+TE240200,C1261,Customer_362,Italy,CNC Cutting Tools,Reamer Φ12mm,70,40.0,16.0,2024-05-04
+TE240201,C1234,Customer_283,UK,CNC Cutting Tools,Face Mill Cutter,86,120.0,48.0,2024-09-17
+TE240202,C1383,Customer_451,UK,CNC Cutting Tools,Indexable Insert TNMG1604,45,3.8,1.5,2024-07-31
+TE240203,C1175,Customer_479,Nigeria,CNC Cutting Tools,Ball Nose End Mill,10,35.0,14.0,2024-05-24
+TE240204,C1372,Customer_153,Ghana,Hand Tools,Hoe with Long Handle,437,7.0,2.8,2024-09-07
+TE240205,C1444,Customer_77,Australia,CNC Cutting Tools,Reamer Φ12mm,54,40.0,16.0,2024-06-19
+TE240206,C1283,Customer_391,Vietnam,CNC Cutting Tools,Reamer Φ12mm,51,40.0,16.0,2024-04-06
+TE240207,C1358,Customer_123,Thailand,CNC Cutting Tools,Face Mill Cutter,62,120.0,48.0,2024-01-23
+TE240208,C1163,Customer_382,India,Hand Tools,Seedling Tray,295,3.5,1.4,2024-07-16
+TE240209,C1340,Customer_406,Kenya,CNC Cutting Tools,Drill Bit Φ10mm,73,30.0,12.0,2024-01-19
+TE240210,C1065,Customer_258,Egypt,CNC Cutting Tools,Threading Tap M8,22,5.0,2.0,2024-08-13
+TE240211,C1052,Customer_270,Cameroon,Hand Tools,Steel Pickaxe,469,8.0,3.2,2024-03-14
+TE240212,C1210,Customer_446,Mexico,Hand Tools,Steel Shovel,138,7.2,2.9,2024-08-28
+TE240213,C1401,Customer_497,Italy,CNC Cutting Tools,Lathe Tool Bit,98,18.0,7.2,2024-07-22
+TE240214,C1333,Customer_42,Ghana,Hand Tools,Wheelbarrow,445,45.0,18.0,2024-09-30
+TE240215,C1195,Customer_489,Japan,CNC Cutting Tools,Taper Shank Drill,72,28.0,11.2,2024-10-04
+TE240216,C1019,Customer_317,USA,CNC Cutting Tools,Milling Cutter Set,97,300.0,120.0,2024-05-27
+TE240217,C1117,Customer_383,USA,CNC Cutting Tools,Indexable Insert TNMG1604,91,3.8,1.5,2024-12-26
+TE240218,C1447,Customer_52,Australia,CNC Cutting Tools,Taper Shank Drill,48,28.0,11.2,2024-01-15
+TE240219,C1024,Customer_167,Nigeria,Hand Tools,Mini Garden Trowel,283,5.0,2.0,2024-07-10
+TE240220,C1221,Customer_75,Italy,Hand Tools,Steel Mattock,389,8.5,3.4,2024-12-15
+TE240221,C1406,Customer_93,UK,CNC Cutting Tools,Indexable Insert TNMG1604,88,3.8,1.5,2024-07-14
+TE240222,C1318,Customer_350,Italy,CNC Cutting Tools,Lathe Tool Bit,28,18.0,7.2,2024-04-28
+TE240223,C1237,Customer_327,Italy,CNC Cutting Tools,Ball Nose End Mill,95,35.0,14.0,2024-01-05
+TE240224,C1461,Customer_412,India,Hand Tools,Mini Garden Trowel,446,5.0,2.0,2024-10-06
+TE240225,C1081,Customer_38,Australia,CNC Cutting Tools,Threading Tap M8,85,5.0,2.0,2024-06-02
+TE240226,C1328,Customer_493,Australia,CNC Cutting Tools,Ball Nose End Mill,68,35.0,14.0,2024-06-03
+TE240227,C1102,Customer_197,Ghana,Hand Tools,Garden Hoe,221,6.5,2.6,2024-07-14
+TE240228,C1293,Customer_184,Thailand,Hand Tools,Watering Can,251,6.0,2.4,2024-01-12
+TE240229,C1425,Customer_338,Canada,Hand Tools,Steel Pickaxe,389,8.0,3.2,2024-12-17
+TE240230,C1399,Customer_382,South Africa,Hand Tools,Seedling Tray,410,3.5,1.4,2024-09-11
+TE240231,C1427,Customer_463,Cameroon,Hand Tools,Gardening Gloves,217,4.0,1.6,2024-11-06
+TE240232,C1411,Customer_181,France,CNC Cutting Tools,Face Mill Cutter,89,120.0,48.0,2024-05-08
+TE240233,C1348,Customer_387,Spain,Hand Tools,Hand Saw,448,10.0,4.0,2024-03-11
+TE240234,C1322,Customer_50,Cameroon,Hand Tools,Hand Saw,120,10.0,4.0,2024-06-07
+TE240235,C1404,Customer_226,Germany,CNC Cutting Tools,Threading Tap M8,26,5.0,2.0,2024-02-16
+TE240236,C1466,Customer_152,Japan,CNC Cutting Tools,Slotting Cutter,32,80.0,32.0,2024-04-12
+TE240237,C1068,Customer_403,Vietnam,Hand Tools,Iron Rake,371,7.5,3.0,2024-09-13
+TE240238,C1468,Customer_140,Ghana,CNC Cutting Tools,Ball Nose End Mill,71,35.0,14.0,2024-05-31
+TE240239,C1383,Customer_446,Japan,CNC Cutting Tools,Indexable Insert TNMG1604,69,3.8,1.5,2024-02-08
+TE240240,C1073,Customer_387,Egypt,CNC Cutting Tools,Milling Cutter Set,96,300.0,120.0,2024-07-22
+TE240241,C1496,Customer_434,Kenya,Hand Tools,Iron Rake,146,7.5,3.0,2024-07-21
+TE240242,C1008,Customer_136,Vietnam,Hand Tools,Garden Fork,288,6.8,2.7,2024-12-10
+TE240243,C1384,Customer_345,Italy,Hand Tools,Steel Mattock,426,8.5,3.4,2024-07-09
+TE240244,C1056,Customer_346,Italy,CNC Cutting Tools,Carbide End Mill Φ6mm,89,25.0,10.5,2024-10-14
+TE240245,C1168,Customer_469,Brazil,CNC Cutting Tools,Milling Cutter Set,18,300.0,120.0,2024-11-21
+TE240246,C1422,Customer_238,Cameroon,Hand Tools,Mini Garden Trowel,432,5.0,2.0,2024-07-28
+TE240247,C1060,Customer_72,Germany,CNC Cutting Tools,Carbide End Mill Φ6mm,48,25.0,10.5,2024-09-09
+TE240248,C1060,Customer_50,Italy,Hand Tools,Pruning Shears,169,12.0,4.8,2024-07-17
+TE240249,C1233,Customer_190,Mexico,Hand Tools,Watering Can,456,6.0,2.4,2024-10-03
+TE240250,C1215,Customer_301,Sweden,Hand Tools,Steel Shovel,312,7.2,2.9,2024-12-01
+TE240251,C1051,Customer_427,India,Hand Tools,Steel Mattock,243,8.5,3.4,2024-01-17
+TE240252,C1354,Customer_190,France,CNC Cutting Tools,Reamer Φ12mm,40,40.0,16.0,2024-07-04
+TE240253,C1051,Customer_352,Canada,Hand Tools,Seedling Tray,430,3.5,1.4,2024-07-02
+TE240254,C1032,Customer_204,Italy,CNC Cutting Tools,Indexable Insert TNMG1604,68,3.8,1.5,2024-02-16
+TE240255,C1340,Customer_109,Mexico,CNC Cutting Tools,Lathe Tool Bit,12,18.0,7.2,2024-01-26
+TE240256,C1403,Customer_171,Italy,CNC Cutting Tools,Drill Bit Φ10mm,82,30.0,12.0,2024-04-15
+TE240257,C1036,Customer_425,Sweden,Hand Tools,Wooden Handle Axe,400,9.0,3.6,2024-04-20
+TE240258,C1417,Customer_446,Italy,CNC Cutting Tools,Drill Bit Φ10mm,86,30.0,12.0,2024-01-02
+TE240259,C1142,Customer_440,South Africa,Hand Tools,Steel Shovel,376,7.2,2.9,2024-05-08
+TE240260,C1409,Customer_90,USA,CNC Cutting Tools,Carbide End Mill Φ6mm,26,25.0,10.5,2024-01-08
+TE240261,C1184,Customer_405,Nigeria,Hand Tools,Hoe with Long Handle,265,7.0,2.8,2024-01-09
+TE240262,C1090,Customer_136,Germany,Hand Tools,Watering Can,315,6.0,2.4,2024-09-26
+TE240263,C1059,Customer_382,USA,CNC Cutting Tools,Reamer Φ12mm,56,40.0,16.0,2024-09-19
+TE240264,C1304,Customer_56,Australia,CNC Cutting Tools,Face Mill Cutter,88,120.0,48.0,2024-01-23
+TE240265,C1373,Customer_402,Cameroon,Hand Tools,Hand Saw,366,10.0,4.0,2024-06-03
+TE240266,C1235,Customer_330,Egypt,Hand Tools,Steel Pickaxe,345,8.0,3.2,2024-07-24
+TE240267,C1219,Customer_352,USA,CNC Cutting Tools,Taper Shank Drill,66,28.0,11.2,2024-02-07
+TE240268,C1461,Customer_42,Japan,CNC Cutting Tools,Drill Bit Φ10mm,18,30.0,12.0,2024-03-05
+TE240269,C1141,Customer_320,Brazil,Hand Tools,Pruning Shears,464,12.0,4.8,2024-06-15
+TE240270,C1196,Customer_306,Vietnam,Hand Tools,Garden Fork,358,6.8,2.7,2024-11-05
+TE240271,C1221,Customer_51,Nigeria,Hand Tools,Garden Hoe,435,6.5,2.6,2024-11-29
+TE240272,C1450,Customer_394,Thailand,Hand Tools,Wheelbarrow,210,45.0,18.0,2024-08-08
+TE240273,C1232,Customer_455,France,Hand Tools,Iron Rake,332,7.5,3.0,2024-07-23
+TE240274,C1213,Customer_374,USA,Hand Tools,Steel Mattock,260,8.5,3.4,2024-12-06
+TE240275,C1131,Customer_192,Egypt,Hand Tools,Hand Saw,342,10.0,4.0,2024-02-04
+TE240276,C1047,Customer_426,USA,CNC Cutting Tools,Slotting Cutter,22,80.0,32.0,2024-07-09
+TE240277,C1416,Customer_67,Thailand,Hand Tools,Hoe with Long Handle,387,7.0,2.8,2024-10-14
+TE240278,C1169,Customer_344,UK,CNC Cutting Tools,Threading Tap M8,95,5.0,2.0,2024-08-04
+TE240279,C1445,Customer_469,Spain,Hand Tools,Mini Garden Trowel,407,5.0,2.0,2024-06-08
+TE240280,C1181,Customer_54,Thailand,Hand Tools,Wooden Handle Axe,179,9.0,3.6,2024-12-02
+TE240281,C1247,Customer_115,Ghana,Hand Tools,Iron Rake,384,7.5,3.0,2024-07-07
+TE240282,C1059,Customer_391,Italy,CNC Cutting Tools,Face Mill Cutter,64,120.0,48.0,2024-10-14
+TE240283,C1499,Customer_393,Kenya,Hand Tools,Hoe with Long Handle,445,7.0,2.8,2024-11-25
+TE240284,C1286,Customer_14,Brazil,CNC Cutting Tools,Milling Cutter Set,98,300.0,120.0,2024-05-16
+TE240285,C1015,Customer_93,Italy,CNC Cutting Tools,Ball Nose End Mill,53,35.0,14.0,2024-06-28
+TE240286,C1004,Customer_93,Uganda,CNC Cutting Tools,Lathe Tool Bit,94,18.0,7.2,2024-07-24
+TE240287,C1036,Customer_73,Sweden,Hand Tools,Steel Pickaxe,146,8.0,3.2,2024-09-28
+TE240288,C1111,Customer_193,Australia,CNC Cutting Tools,Threading Tap M8,30,5.0,2.0,2024-07-08
+TE240289,C1160,Customer_370,Japan,CNC Cutting Tools,Lathe Tool Bit,86,18.0,7.2,2024-02-13
+TE240290,C1453,Customer_27,UK,CNC Cutting Tools,Lathe Tool Bit,16,18.0,7.2,2024-12-11
+TE240291,C1042,Customer_140,Australia,CNC Cutting Tools,Slotting Cutter,72,80.0,32.0,2024-11-06
+TE240292,C1227,Customer_213,Italy,CNC Cutting Tools,End Mill Holder,24,50.0,20.0,2024-06-25
+TE240293,C1221,Customer_57,Italy,Hand Tools,Hand Saw,403,10.0,4.0,2024-09-06
+TE240294,C1270,Customer_342,Japan,CNC Cutting Tools,Face Mill Cutter,60,120.0,48.0,2024-11-02
+TE240295,C1029,Customer_4,France,CNC Cutting Tools,Face Mill Cutter,27,120.0,48.0,2024-05-10
+TE240296,C1149,Customer_168,UK,CNC Cutting Tools,Reamer Φ12mm,65,40.0,16.0,2024-03-30
+TE240297,C1067,Customer_195,Vietnam,Hand Tools,Wooden Handle Axe,356,9.0,3.6,2024-10-13
+TE240298,C1427,Customer_343,Kenya,Hand Tools,Garden Hoe,303,6.5,2.6,2024-01-22
+TE240299,C1224,Customer_10,Australia,CNC Cutting Tools,Indexable Insert TNMG1604,50,3.8,1.5,2024-10-21
+TE240300,C1220,Customer_294,Canada,CNC Cutting Tools,Milling Cutter Set,63,300.0,120.0,2024-05-28
+TE240301,C1059,Customer_208,Germany,CNC Cutting Tools,Threading Tap M8,31,5.0,2.0,2024-11-12
+TE240302,C1236,Customer_426,Spain,Hand Tools,Iron Rake,145,7.5,3.0,2024-08-11
+TE240303,C1433,Customer_55,Italy,CNC Cutting Tools,Lathe Tool Bit,61,18.0,7.2,2024-09-25
+TE240304,C1041,Customer_203,Uganda,Hand Tools,Watering Can,273,6.0,2.4,2024-04-23
+TE240305,C1171,Customer_399,UK,CNC Cutting Tools,End Mill Holder,91,50.0,20.0,2024-02-28
+TE240306,C1272,Customer_262,France,Hand Tools,Gardening Gloves,278,4.0,1.6,2024-06-28
+TE240307,C1373,Customer_491,Kenya,Hand Tools,Wheelbarrow,175,45.0,18.0,2024-04-30
+TE240308,C1053,Customer_75,Italy,CNC Cutting Tools,Drill Bit Φ10mm,87,30.0,12.0,2024-03-19
+TE240309,C1390,Customer_389,Mexico,Hand Tools,Steel Shovel,495,7.2,2.9,2024-11-17
+TE240310,C1253,Customer_238,Sweden,Hand Tools,Gardening Gloves,396,4.0,1.6,2024-08-17
+TE240311,C1349,Customer_474,Uganda,Hand Tools,Hand Saw,425,10.0,4.0,2024-11-15
+TE240312,C1166,Customer_443,Egypt,CNC Cutting Tools,Threading Tap M8,29,5.0,2.0,2024-08-13
+TE240313,C1035,Customer_241,Australia,CNC Cutting Tools,Ball Nose End Mill,45,35.0,14.0,2024-10-29
+TE240314,C1029,Customer_181,Vietnam,Hand Tools,Mini Garden Trowel,336,5.0,2.0,2024-08-19
+TE240315,C1020,Customer_30,Canada,Hand Tools,Mini Garden Trowel,139,5.0,2.0,2024-11-26
+TE240316,C1443,Customer_438,USA,CNC Cutting Tools,Lathe Tool Bit,74,18.0,7.2,2024-07-15
+TE240317,C1237,Customer_298,Thailand,Hand Tools,Gardening Gloves,478,4.0,1.6,2024-01-22
+TE240318,C1231,Customer_466,Kenya,CNC Cutting Tools,Milling Cutter Set,34,300.0,120.0,2024-06-13
+TE240319,C1310,Customer_244,India,CNC Cutting Tools,Carbide End Mill Φ6mm,67,25.0,10.5,2024-02-22
+TE240320,C1416,Customer_461,Ghana,Hand Tools,Watering Can,143,6.0,2.4,2024-09-15
+TE240321,C1331,Customer_89,Germany,CNC Cutting Tools,Taper Shank Drill,66,28.0,11.2,2024-08-12
+TE240322,C1269,Customer_268,Brazil,Hand Tools,Iron Rake,290,7.5,3.0,2024-05-24
+TE240323,C1199,Customer_210,Nigeria,Hand Tools,Hand Saw,406,10.0,4.0,2024-01-27
+TE240324,C1405,Customer_324,Mexico,Hand Tools,Garden Hoe,268,6.5,2.6,2024-02-18
+TE240325,C1286,Customer_348,Canada,Hand Tools,Mini Garden Trowel,470,5.0,2.0,2024-12-02
+TE240326,C1494,Customer_465,Brazil,Hand Tools,Steel Shovel,270,7.2,2.9,2024-02-11
+TE240327,C1299,Customer_340,UK,CNC Cutting Tools,Threading Tap M8,49,5.0,2.0,2024-12-01
+TE240328,C1358,Customer_340,Canada,CNC Cutting Tools,Lathe Tool Bit,100,18.0,7.2,2024-02-13
+TE240329,C1159,Customer_287,Canada,CNC Cutting Tools,Threading Tap M8,26,5.0,2.0,2024-12-09
+TE240330,C1360,Customer_425,Egypt,Hand Tools,Hand Saw,369,10.0,4.0,2024-02-17
+TE240331,C1331,Customer_344,Australia,CNC Cutting Tools,Threading Tap M8,12,5.0,2.0,2024-07-04
+TE240332,C1159,Customer_93,Egypt,Hand Tools,Iron Rake,492,7.5,3.0,2024-09-05
+TE240333,C1099,Customer_116,South Africa,CNC Cutting Tools,Drill Bit Φ10mm,19,30.0,12.0,2024-05-31
+TE240334,C1433,Customer_404,USA,CNC Cutting Tools,End Mill Holder,77,50.0,20.0,2024-01-20
+TE240335,C1339,Customer_173,Uganda,CNC Cutting Tools,Lathe Tool Bit,26,18.0,7.2,2024-11-01
+TE240336,C1193,Customer_79,UK,CNC Cutting Tools,Taper Shank Drill,89,28.0,11.2,2024-03-25
+TE240337,C1370,Customer_225,Germany,Hand Tools,Iron Rake,446,7.5,3.0,2024-05-01
+TE240338,C1497,Customer_228,Brazil,Hand Tools,Gardening Gloves,483,4.0,1.6,2024-08-17
+TE240339,C1120,Customer_274,Italy,CNC Cutting Tools,Reamer Φ12mm,34,40.0,16.0,2024-07-07
+TE240340,C1348,Customer_485,Thailand,CNC Cutting Tools,Reamer Φ12mm,69,40.0,16.0,2024-05-24
+TE240341,C1399,Customer_196,India,Hand Tools,Steel Mattock,182,8.5,3.4,2024-04-12
+TE240342,C1411,Customer_310,UK,CNC Cutting Tools,Ball Nose End Mill,16,35.0,14.0,2024-11-24
+TE240343,C1247,Customer_448,Canada,CNC Cutting Tools,Indexable Insert TNMG1604,76,3.8,1.5,2024-03-04
+TE240344,C1146,Customer_43,Sweden,Hand Tools,Mini Garden Trowel,330,5.0,2.0,2024-09-19
+TE240345,C1076,Customer_426,Australia,CNC Cutting Tools,Face Mill Cutter,67,120.0,48.0,2024-06-27
+TE240346,C1477,Customer_14,Australia,CNC Cutting Tools,Slotting Cutter,74,80.0,32.0,2024-07-10
+TE240347,C1121,Customer_198,South Africa,Hand Tools,Iron Rake,214,7.5,3.0,2024-01-15
+TE240348,C1164,Customer_477,USA,CNC Cutting Tools,Taper Shank Drill,93,28.0,11.2,2024-06-20
+TE240349,C1406,Customer_75,UK,CNC Cutting Tools,Ball Nose End Mill,70,35.0,14.0,2024-12-22
+TE240350,C1426,Customer_72,Sweden,Hand Tools,Garden Fork,329,6.8,2.7,2024-11-11
+TE240351,C1003,Customer_464,USA,CNC Cutting Tools,Ball Nose End Mill,37,35.0,14.0,2024-03-17
+TE240352,C1281,Customer_482,Sweden,Hand Tools,Pruning Shears,316,12.0,4.8,2024-02-26
+TE240353,C1398,Customer_148,Italy,CNC Cutting Tools,Indexable Insert TNMG1604,16,3.8,1.5,2024-05-02
+TE240354,C1215,Customer_328,Nigeria,CNC Cutting Tools,Reamer Φ12mm,18,40.0,16.0,2024-02-26
+TE240355,C1429,Customer_464,India,CNC Cutting Tools,End Mill Holder,12,50.0,20.0,2024-11-19
+TE240356,C1264,Customer_295,Italy,CNC Cutting Tools,Drill Bit Φ10mm,47,30.0,12.0,2024-08-07
+TE240357,C1001,Customer_315,Canada,CNC Cutting Tools,Lathe Tool Bit,63,18.0,7.2,2024-04-05
+TE240358,C1341,Customer_343,USA,CNC Cutting Tools,Threading Tap M8,18,5.0,2.0,2024-09-26
+TE240359,C1279,Customer_260,Nigeria,Hand Tools,Pruning Shears,383,12.0,4.8,2024-01-11
+TE240360,C1200,Customer_448,India,Hand Tools,Hand Saw,298,10.0,4.0,2024-07-10
+TE240361,C1130,Customer_383,Germany,CNC Cutting Tools,Indexable Insert TNMG1604,54,3.8,1.5,2024-05-03
+TE240362,C1376,Customer_337,Brazil,Hand Tools,Gardening Gloves,397,4.0,1.6,2024-06-19
+TE240363,C1069,Customer_23,Canada,CNC Cutting Tools,Threading Tap M8,92,5.0,2.0,2024-03-30
+TE240364,C1426,Customer_399,Spain,Hand Tools,Watering Can,345,6.0,2.4,2024-11-19
+TE240365,C1094,Customer_416,UK,Hand Tools,Watering Can,497,6.0,2.4,2024-08-22
+TE240366,C1019,Customer_151,France,CNC Cutting Tools,Face Mill Cutter,15,120.0,48.0,2024-06-10
+TE240367,C1478,Customer_159,Vietnam,Hand Tools,Wheelbarrow,378,45.0,18.0,2024-08-30
+TE240368,C1130,Customer_19,Sweden,Hand Tools,Wooden Handle Axe,246,9.0,3.6,2024-07-01
+TE240369,C1442,Customer_400,Germany,CNC Cutting Tools,Milling Cutter Set,52,300.0,120.0,2024-05-19
+TE240370,C1064,Customer_410,Canada,CNC Cutting Tools,Slotting Cutter,66,80.0,32.0,2024-07-16
+TE240371,C1174,Customer_499,France,CNC Cutting Tools,Taper Shank Drill,73,28.0,11.2,2024-07-07
+TE240372,C1474,Customer_409,Vietnam,CNC Cutting Tools,Indexable Insert TNMG1604,64,3.8,1.5,2024-02-10
+TE240373,C1221,Customer_309,South Africa,CNC Cutting Tools,Drill Bit Φ10mm,79,30.0,12.0,2024-05-30
+TE240374,C1165,Customer_53,USA,CNC Cutting Tools,Milling Cutter Set,47,300.0,120.0,2024-06-05
+TE240375,C1229,Customer_309,Spain,CNC Cutting Tools,Drill Bit Φ10mm,98,30.0,12.0,2024-08-15
+TE240376,C1180,Customer_229,Germany,CNC Cutting Tools,Threading Tap M8,88,5.0,2.0,2024-08-10
+TE240377,C1141,Customer_328,South Africa,Hand Tools,Steel Pickaxe,138,8.0,3.2,2024-12-09
+TE240378,C1327,Customer_208,Canada,CNC Cutting Tools,Taper Shank Drill,96,28.0,11.2,2024-03-22
+TE240379,C1488,Customer_16,UK,Hand Tools,Hoe with Long Handle,447,7.0,2.8,2024-08-12
+TE240380,C1018,Customer_65,USA,CNC Cutting Tools,Milling Cutter Set,56,300.0,120.0,2024-07-04
+TE240381,C1197,Customer_487,Thailand,CNC Cutting Tools,Lathe Tool Bit,29,18.0,7.2,2024-12-13
+TE240382,C1231,Customer_486,Canada,CNC Cutting Tools,Reamer Φ12mm,19,40.0,16.0,2024-10-20
+TE240383,C1071,Customer_272,Canada,CNC Cutting Tools,Threading Tap M8,93,5.0,2.0,2024-05-22
+TE240384,C1128,Customer_492,USA,Hand Tools,Watering Can,195,6.0,2.4,2024-09-12
+TE240385,C1266,Customer_199,Senegal,Hand Tools,Garden Hoe,234,6.5,2.6,2024-05-13
+TE240386,C1361,Customer_229,France,Hand Tools,Hoe with Long Handle,246,7.0,2.8,2024-12-21
+TE240387,C1470,Customer_252,France,CNC Cutting Tools,Drill Bit Φ10mm,19,30.0,12.0,2024-08-19
+TE240388,C1089,Customer_461,Spain,CNC Cutting Tools,Indexable Insert TNMG1604,97,3.8,1.5,2024-06-12
+TE240389,C1342,Customer_178,Spain,Hand Tools,Pruning Shears,377,12.0,4.8,2024-05-28
+TE240390,C1457,Customer_154,Ghana,Hand Tools,Watering Can,463,6.0,2.4,2024-12-24
+TE240391,C1327,Customer_90,Nigeria,Hand Tools,Pruning Shears,214,12.0,4.8,2024-03-03
+TE240392,C1103,Customer_406,UK,CNC Cutting Tools,Reamer Φ12mm,13,40.0,16.0,2024-07-03
+TE240393,C1284,Customer_294,Canada,CNC Cutting Tools,End Mill Holder,26,50.0,20.0,2024-11-09
+TE240394,C1453,Customer_45,USA,CNC Cutting Tools,Slotting Cutter,71,80.0,32.0,2024-09-26
+TE240395,C1211,Customer_394,Australia,CNC Cutting Tools,Lathe Tool Bit,19,18.0,7.2,2024-03-05
+TE240396,C1498,Customer_163,Mexico,Hand Tools,Garden Fork,338,6.8,2.7,2024-12-14
+TE240397,C1265,Customer_177,UK,Hand Tools,Wheelbarrow,499,45.0,18.0,2024-10-09
+TE240398,C1328,Customer_301,France,CNC Cutting Tools,Drill Bit Φ10mm,65,30.0,12.0,2024-09-14
+TE240399,C1467,Customer_445,Germany,CNC Cutting Tools,Indexable Insert TNMG1604,76,3.8,1.5,2024-03-19
+TE240400,C1156,Customer_85,UK,CNC Cutting Tools,Taper Shank Drill,38,28.0,11.2,2024-06-26
+TE240401,C1486,Customer_482,Vietnam,CNC Cutting Tools,Ball Nose End Mill,20,35.0,14.0,2024-05-08
+TE240402,C1101,Customer_326,Egypt,Hand Tools,Mini Garden Trowel,164,5.0,2.0,2024-11-16
+TE240403,C1156,Customer_315,Vietnam,Hand Tools,Pruning Shears,428,12.0,4.8,2024-03-27
+TE240404,C1304,Customer_483,Thailand,Hand Tools,Steel Shovel,437,7.2,2.9,2024-11-15
+TE240405,C1369,Customer_462,Brazil,Hand Tools,Wheelbarrow,388,45.0,18.0,2024-01-22
+TE240406,C1423,Customer_443,Germany,Hand Tools,Steel Pickaxe,428,8.0,3.2,2024-10-22
+TE240407,C1136,Customer_334,France,CNC Cutting Tools,Lathe Tool Bit,63,18.0,7.2,2024-11-12
+TE240408,C1328,Customer_16,India,CNC Cutting Tools,Milling Cutter Set,79,300.0,120.0,2024-05-28
+TE240409,C1329,Customer_490,Japan,Hand Tools,Wooden Handle Axe,450,9.0,3.6,2024-07-26
+TE240410,C1153,Customer_233,USA,CNC Cutting Tools,Carbide End Mill Φ6mm,30,25.0,10.5,2024-08-13
+TE240411,C1213,Customer_248,India,Hand Tools,Iron Rake,410,7.5,3.0,2024-03-14
+TE240412,C1161,Customer_442,Spain,Hand Tools,Watering Can,276,6.0,2.4,2024-07-23
+TE240413,C1067,Customer_390,Canada,Hand Tools,Pruning Shears,154,12.0,4.8,2024-06-12
+TE240414,C1124,Customer_239,UK,CNC Cutting Tools,Reamer Φ12mm,41,40.0,16.0,2024-03-13
+TE240415,C1050,Customer_26,Japan,CNC Cutting Tools,Slotting Cutter,88,80.0,32.0,2024-08-02
+TE240416,C1128,Customer_493,Uganda,Hand Tools,Steel Shovel,267,7.2,2.9,2024-10-22
+TE240417,C1370,Customer_161,France,CNC Cutting Tools,Drill Bit Φ10mm,73,30.0,12.0,2024-09-20
+TE240418,C1240,Customer_256,Uganda,Hand Tools,Garden Fork,111,6.8,2.7,2024-02-16
+TE240419,C1484,Customer_202,India,Hand Tools,Wooden Handle Axe,210,9.0,3.6,2024-10-25
+TE240420,C1181,Customer_25,Germany,CNC Cutting Tools,Reamer Φ12mm,86,40.0,16.0,2024-11-30
+TE240421,C1345,Customer_241,Italy,CNC Cutting Tools,Carbide End Mill Φ6mm,23,25.0,10.5,2024-08-08
+TE240422,C1069,Customer_452,Italy,CNC Cutting Tools,Threading Tap M8,61,5.0,2.0,2024-07-06
+TE240423,C1024,Customer_206,Germany,CNC Cutting Tools,End Mill Holder,34,50.0,20.0,2024-07-04
+TE240424,C1284,Customer_148,USA,CNC Cutting Tools,End Mill Holder,67,50.0,20.0,2024-10-08
+TE240425,C1144,Customer_423,South Africa,CNC Cutting Tools,Milling Cutter Set,88,300.0,120.0,2024-03-01
+TE240426,C1066,Customer_500,USA,CNC Cutting Tools,Threading Tap M8,53,5.0,2.0,2024-10-12
+TE240427,C1481,Customer_188,Sweden,Hand Tools,Wooden Handle Axe,408,9.0,3.6,2024-09-17
+TE240428,C1206,Customer_257,Germany,Hand Tools,Steel Pickaxe,170,8.0,3.2,2024-12-31
+TE240429,C1171,Customer_412,India,Hand Tools,Garden Fork,176,6.8,2.7,2024-11-06
+TE240430,C1458,Customer_264,UK,CNC Cutting Tools,Lathe Tool Bit,50,18.0,7.2,2024-03-24
+TE240431,C1202,Customer_316,Sweden,CNC Cutting Tools,Ball Nose End Mill,85,35.0,14.0,2024-06-21
+TE240432,C1260,Customer_425,Vietnam,Hand Tools,Garden Fork,462,6.8,2.7,2024-10-15
+TE240433,C1154,Customer_244,Kenya,Hand Tools,Iron Rake,269,7.5,3.0,2024-12-10
+TE240434,C1057,Customer_214,Thailand,CNC Cutting Tools,Taper Shank Drill,98,28.0,11.2,2024-11-18
+TE240435,C1014,Customer_306,India,CNC Cutting Tools,Milling Cutter Set,84,300.0,120.0,2024-10-22
+TE240436,C1117,Customer_370,Germany,CNC Cutting Tools,Reamer Φ12mm,31,40.0,16.0,2024-09-25
+TE240437,C1323,Customer_370,Brazil,CNC Cutting Tools,Slotting Cutter,28,80.0,32.0,2024-12-14
+TE240438,C1125,Customer_17,Thailand,Hand Tools,Watering Can,156,6.0,2.4,2024-04-07
+TE240439,C1010,Customer_226,Japan,CNC Cutting Tools,Drill Bit Φ10mm,62,30.0,12.0,2024-12-19
+TE240440,C1105,Customer_211,India,CNC Cutting Tools,Lathe Tool Bit,70,18.0,7.2,2024-02-01
+TE240441,C1362,Customer_71,Vietnam,CNC Cutting Tools,End Mill Holder,51,50.0,20.0,2024-12-05
+TE240442,C1245,Customer_270,Canada,Hand Tools,Steel Shovel,335,7.2,2.9,2024-09-29
+TE240443,C1176,Customer_280,Canada,CNC Cutting Tools,Taper Shank Drill,97,28.0,11.2,2024-11-25
+TE240444,C1412,Customer_355,Italy,CNC Cutting Tools,Reamer Φ12mm,34,40.0,16.0,2024-05-06
+TE240445,C1143,Customer_286,Japan,Hand Tools,Mini Garden Trowel,494,5.0,2.0,2024-05-27
+TE240446,C1361,Customer_107,Spain,Hand Tools,Garden Fork,262,6.8,2.7,2024-09-02
+TE240447,C1179,Customer_287,Senegal,Hand Tools,Gardening Gloves,469,4.0,1.6,2024-05-20
+TE240448,C1148,Customer_63,Thailand,Hand Tools,Pruning Shears,294,12.0,4.8,2024-07-21
+TE240449,C1420,Customer_177,Egypt,Hand Tools,Gardening Gloves,174,4.0,1.6,2024-05-28
+TE240450,C1022,Customer_148,Egypt,CNC Cutting Tools,Indexable Insert TNMG1604,54,3.8,1.5,2024-08-14
+TE240451,C1336,Customer_132,Sweden,Hand Tools,Wooden Handle Axe,203,9.0,3.6,2024-10-02
+TE240452,C1139,Customer_478,Thailand,Hand Tools,Mini Garden Trowel,170,5.0,2.0,2024-02-25
+TE240453,C1316,Customer_380,Thailand,Hand Tools,Wooden Handle Axe,125,9.0,3.6,2024-12-08
+TE240454,C1464,Customer_272,France,Hand Tools,Wooden Handle Axe,126,9.0,3.6,2024-02-21
+TE240455,C1212,Customer_170,Spain,CNC Cutting Tools,Indexable Insert TNMG1604,97,3.8,1.5,2024-03-11
+TE240456,C1003,Customer_494,Vietnam,Hand Tools,Seedling Tray,180,3.5,1.4,2024-07-27
+TE240457,C1335,Customer_479,Uganda,CNC Cutting Tools,Reamer Φ12mm,71,40.0,16.0,2024-11-29
+TE240458,C1103,Customer_388,Egypt,Hand Tools,Iron Rake,246,7.5,3.0,2024-11-26
+TE240459,C1031,Customer_465,Nigeria,CNC Cutting Tools,Milling Cutter Set,83,300.0,120.0,2024-04-28
+TE240460,C1274,Customer_379,Spain,CNC Cutting Tools,Carbide End Mill Φ6mm,32,25.0,10.5,2024-08-01
+TE240461,C1452,Customer_429,France,CNC Cutting Tools,Carbide End Mill Φ6mm,60,25.0,10.5,2024-09-10
+TE240462,C1096,Customer_480,Sweden,Hand Tools,Wheelbarrow,248,45.0,18.0,2024-01-20
+TE240463,C1005,Customer_153,Thailand,Hand Tools,Garden Hoe,271,6.5,2.6,2024-05-25
+TE240464,C1233,Customer_329,Vietnam,Hand Tools,Garden Fork,168,6.8,2.7,2024-09-15
+TE240465,C1240,Customer_140,France,Hand Tools,Garden Hoe,269,6.5,2.6,2024-03-24
+TE240466,C1375,Customer_235,Mexico,Hand Tools,Watering Can,195,6.0,2.4,2024-01-08
+TE240467,C1378,Customer_173,Nigeria,Hand Tools,Hoe with Long Handle,445,7.0,2.8,2024-04-08
+TE240468,C1090,Customer_313,Uganda,Hand Tools,Seedling Tray,307,3.5,1.4,2024-08-06
+TE240469,C1264,Customer_168,USA,CNC Cutting Tools,Milling Cutter Set,22,300.0,120.0,2024-04-04
+TE240470,C1072,Customer_245,Japan,Hand Tools,Wooden Handle Axe,103,9.0,3.6,2024-05-13
+TE240471,C1197,Customer_121,Australia,CNC Cutting Tools,Ball Nose End Mill,52,35.0,14.0,2024-06-03
+TE240472,C1299,Customer_371,Thailand,Hand Tools,Mini Garden Trowel,434,5.0,2.0,2024-07-03
+TE240473,C1355,Customer_121,USA,CNC Cutting Tools,Indexable Insert TNMG1604,69,3.8,1.5,2024-06-06
+TE240474,C1082,Customer_208,Spain,Hand Tools,Seedling Tray,460,3.5,1.4,2024-06-08
+TE240475,C1354,Customer_61,Mexico,Hand Tools,Mini Garden Trowel,288,5.0,2.0,2024-11-10
+TE240476,C1114,Customer_113,Egypt,Hand Tools,Garden Fork,178,6.8,2.7,2024-08-20
+TE240477,C1383,Customer_311,Canada,CNC Cutting Tools,Taper Shank Drill,80,28.0,11.2,2024-08-29
+TE240478,C1388,Customer_276,Kenya,Hand Tools,Wheelbarrow,211,45.0,18.0,2024-05-06
+TE240479,C1349,Customer_387,Brazil,Hand Tools,Gardening Gloves,141,4.0,1.6,2024-09-26
+TE240480,C1229,Customer_271,Spain,Hand Tools,Garden Hoe,388,6.5,2.6,2024-02-27
+TE240481,C1032,Customer_425,Vietnam,Hand Tools,Pruning Shears,203,12.0,4.8,2024-10-20
+TE240482,C1275,Customer_77,UK,CNC Cutting Tools,End Mill Holder,66,50.0,20.0,2024-02-29
+TE240483,C1349,Customer_106,Spain,Hand Tools,Garden Fork,146,6.8,2.7,2024-09-18
+TE240484,C1229,Customer_415,Germany,CNC Cutting Tools,Drill Bit Φ10mm,75,30.0,12.0,2024-07-31
+TE240485,C1234,Customer_289,Germany,CNC Cutting Tools,Reamer Φ12mm,96,40.0,16.0,2024-06-06
+TE240486,C1371,Customer_12,Canada,Hand Tools,Wheelbarrow,101,45.0,18.0,2024-04-21
+TE240487,C1297,Customer_38,Germany,CNC Cutting Tools,Threading Tap M8,99,5.0,2.0,2024-02-02
+TE240488,C1278,Customer_31,Senegal,Hand Tools,Garden Hoe,341,6.5,2.6,2024-01-17
+TE240489,C1147,Customer_210,France,Hand Tools,Steel Shovel,492,7.2,2.9,2024-11-24
+TE240490,C1374,Customer_331,Egypt,Hand Tools,Iron Rake,295,7.5,3.0,2024-08-17
+TE240491,C1446,Customer_470,Cameroon,Hand Tools,Steel Mattock,141,8.5,3.4,2024-12-15
+TE240492,C1494,Customer_339,Uganda,Hand Tools,Steel Shovel,434,7.2,2.9,2024-06-27
+TE240493,C1061,Customer_92,South Africa,Hand Tools,Steel Mattock,370,8.5,3.4,2024-03-06
+TE240494,C1373,Customer_115,Ghana,CNC Cutting Tools,Carbide End Mill Φ6mm,48,25.0,10.5,2024-08-25
+TE240495,C1345,Customer_369,Vietnam,Hand Tools,Pruning Shears,294,12.0,4.8,2024-04-27
+TE240496,C1127,Customer_236,Japan,CNC Cutting Tools,Ball Nose End Mill,34,35.0,14.0,2024-02-27
+TE240497,C1017,Customer_415,Mexico,Hand Tools,Hoe with Long Handle,492,7.0,2.8,2024-01-09
+TE240498,C1124,Customer_106,USA,CNC Cutting Tools,Lathe Tool Bit,14,18.0,7.2,2024-08-16
+TE240499,C1307,Customer_345,Spain,Hand Tools,Steel Pickaxe,225,8.0,3.2,2024-01-23
+TE240500,C1206,Customer_225,Italy,Hand Tools,Wooden Handle Axe,486,9.0,3.6,2024-01-29
+TE240501,C1072,Customer_258,South Africa,Hand Tools,Wooden Handle Axe,474,9.0,3.6,2024-10-21
+TE240502,C1164,Customer_296,Brazil,Hand Tools,Hand Saw,264,10.0,4.0,2024-05-01
+TE240503,C1155,Customer_449,UK,CNC Cutting Tools,Milling Cutter Set,76,300.0,120.0,2024-04-23
+TE240504,C1212,Customer_154,Italy,Hand Tools,Pruning Shears,402,12.0,4.8,2024-03-30
+TE240505,C1321,Customer_348,Australia,CNC Cutting Tools,Reamer Φ12mm,16,40.0,16.0,2024-06-25
+TE240506,C1483,Customer_330,Mexico,CNC Cutting Tools,End Mill Holder,50,50.0,20.0,2024-12-22
+TE240507,C1214,Customer_210,UK,Hand Tools,Steel Mattock,194,8.5,3.4,2024-10-02
+TE240508,C1243,Customer_124,Ghana,Hand Tools,Mini Garden Trowel,462,5.0,2.0,2024-03-14
+TE240509,C1413,Customer_238,Senegal,Hand Tools,Pruning Shears,311,12.0,4.8,2024-08-01
+TE240510,C1286,Customer_272,UK,CNC Cutting Tools,Face Mill Cutter,42,120.0,48.0,2024-04-14
+TE240511,C1170,Customer_332,USA,CNC Cutting Tools,Reamer Φ12mm,57,40.0,16.0,2024-02-17
+TE240512,C1275,Customer_371,Ghana,Hand Tools,Steel Pickaxe,237,8.0,3.2,2024-07-12
+TE240513,C1345,Customer_310,Brazil,Hand Tools,Wheelbarrow,137,45.0,18.0,2024-04-06
+TE240514,C1412,Customer_390,Thailand,Hand Tools,Hand Saw,386,10.0,4.0,2024-04-21
+TE240515,C1246,Customer_107,Uganda,CNC Cutting Tools,Threading Tap M8,48,5.0,2.0,2024-01-08
+TE240516,C1109,Customer_480,France,CNC Cutting Tools,Taper Shank Drill,25,28.0,11.2,2024-09-02
+TE240517,C1469,Customer_125,Spain,Hand Tools,Watering Can,204,6.0,2.4,2024-07-22
+TE240518,C1469,Customer_123,Thailand,Hand Tools,Gardening Gloves,244,4.0,1.6,2024-07-13
+TE240519,C1239,Customer_274,Mexico,Hand Tools,Mini Garden Trowel,233,5.0,2.0,2024-07-03
+TE240520,C1263,Customer_452,India,CNC Cutting Tools,Indexable Insert TNMG1604,70,3.8,1.5,2024-06-12
+TE240521,C1469,Customer_105,Canada,CNC Cutting Tools,Slotting Cutter,15,80.0,32.0,2024-10-15
+TE240522,C1443,Customer_114,Sweden,Hand Tools,Steel Pickaxe,233,8.0,3.2,2024-10-10
+TE240523,C1479,Customer_300,Thailand,Hand Tools,Steel Mattock,251,8.5,3.4,2024-03-19
+TE240524,C1101,Customer_169,France,Hand Tools,Hoe with Long Handle,225,7.0,2.8,2024-09-12
+TE240525,C1282,Customer_336,Egypt,Hand Tools,Iron Rake,231,7.5,3.0,2024-09-07
+TE240526,C1495,Customer_371,Mexico,Hand Tools,Garden Fork,335,6.8,2.7,2024-03-27
+TE240527,C1376,Customer_408,Canada,CNC Cutting Tools,Drill Bit Φ10mm,79,30.0,12.0,2024-09-07
+TE240528,C1095,Customer_470,Cameroon,Hand Tools,Hand Saw,130,10.0,4.0,2024-09-25
+TE240529,C1018,Customer_430,Ghana,CNC Cutting Tools,Milling Cutter Set,16,300.0,120.0,2024-01-04
+TE240530,C1212,Customer_71,Ghana,Hand Tools,Wooden Handle Axe,134,9.0,3.6,2024-12-28
+TE240531,C1078,Customer_5,France,Hand Tools,Garden Fork,291,6.8,2.7,2024-01-31
+TE240532,C1317,Customer_327,Mexico,Hand Tools,Hoe with Long Handle,347,7.0,2.8,2024-12-03
+TE240533,C1250,Customer_9,Germany,Hand Tools,Pruning Shears,310,12.0,4.8,2024-01-07
+TE240534,C1009,Customer_272,Spain,Hand Tools,Pruning Shears,246,12.0,4.8,2024-01-09
+TE240535,C1258,Customer_417,Spain,Hand Tools,Steel Mattock,191,8.5,3.4,2024-02-24
+TE240536,C1471,Customer_50,Vietnam,Hand Tools,Wooden Handle Axe,198,9.0,3.6,2024-11-13
+TE240537,C1270,Customer_130,Kenya,Hand Tools,Mini Garden Trowel,303,5.0,2.0,2024-02-10
+TE240538,C1192,Customer_492,Australia,CNC Cutting Tools,Lathe Tool Bit,41,18.0,7.2,2024-12-22
+TE240539,C1116,Customer_154,Spain,Hand Tools,Wheelbarrow,141,45.0,18.0,2024-11-30
+TE240540,C1440,Customer_333,Sweden,CNC Cutting Tools,Indexable Insert TNMG1604,61,3.8,1.5,2024-07-13
+TE240541,C1194,Customer_283,India,Hand Tools,Hand Saw,104,10.0,4.0,2024-12-25
+TE240542,C1088,Customer_43,India,Hand Tools,Steel Mattock,430,8.5,3.4,2024-06-18
+TE240543,C1290,Customer_440,South Africa,Hand Tools,Seedling Tray,370,3.5,1.4,2024-01-22
+TE240544,C1118,Customer_109,Cameroon,Hand Tools,Watering Can,390,6.0,2.4,2024-08-31
+TE240545,C1139,Customer_24,Senegal,Hand Tools,Hand Saw,243,10.0,4.0,2024-10-05
+TE240546,C1289,Customer_337,Germany,CNC Cutting Tools,Threading Tap M8,12,5.0,2.0,2024-04-16
+TE240547,C1301,Customer_74,Sweden,CNC Cutting Tools,Taper Shank Drill,60,28.0,11.2,2024-02-09
+TE240548,C1154,Customer_84,Thailand,Hand Tools,Hoe with Long Handle,299,7.0,2.8,2024-12-12
+TE240549,C1460,Customer_277,Japan,CNC Cutting Tools,Taper Shank Drill,27,28.0,11.2,2024-12-18
+TE240550,C1371,Customer_41,India,Hand Tools,Iron Rake,127,7.5,3.0,2024-02-20
+TE240551,C1224,Customer_119,Ghana,Hand Tools,Iron Rake,409,7.5,3.0,2024-11-10
+TE240552,C1489,Customer_305,Canada,Hand Tools,Gardening Gloves,267,4.0,1.6,2024-01-16
+TE240553,C1325,Customer_140,Nigeria,Hand Tools,Garden Fork,351,6.8,2.7,2024-04-26
+TE240554,C1183,Customer_284,Senegal,Hand Tools,Steel Mattock,195,8.5,3.4,2024-12-14
+TE240555,C1300,Customer_339,Canada,Hand Tools,Gardening Gloves,416,4.0,1.6,2024-05-31
+TE240556,C1409,Customer_127,Spain,Hand Tools,Garden Hoe,237,6.5,2.6,2024-03-19
+TE240557,C1195,Customer_365,Nigeria,CNC Cutting Tools,Drill Bit Φ10mm,59,30.0,12.0,2024-06-11
+TE240558,C1185,Customer_55,USA,CNC Cutting Tools,Ball Nose End Mill,66,35.0,14.0,2024-07-03
+TE240559,C1390,Customer_139,USA,CNC Cutting Tools,Indexable Insert TNMG1604,33,3.8,1.5,2024-08-08
+TE240560,C1230,Customer_286,Thailand,Hand Tools,Steel Mattock,152,8.5,3.4,2024-01-14
+TE240561,C1046,Customer_182,Thailand,Hand Tools,Hoe with Long Handle,406,7.0,2.8,2024-06-15
+TE240562,C1443,Customer_198,Germany,CNC Cutting Tools,Slotting Cutter,59,80.0,32.0,2024-02-13
+TE240563,C1372,Customer_462,Thailand,CNC Cutting Tools,Face Mill Cutter,83,120.0,48.0,2024-09-23
+TE240564,C1087,Customer_351,Canada,CNC Cutting Tools,Drill Bit Φ10mm,44,30.0,12.0,2024-06-03
+TE240565,C1138,Customer_253,UK,CNC Cutting Tools,Drill Bit Φ10mm,65,30.0,12.0,2024-05-21
+TE240566,C1216,Customer_154,India,Hand Tools,Garden Hoe,284,6.5,2.6,2024-05-08
+TE240567,C1484,Customer_127,Spain,Hand Tools,Garden Fork,404,6.8,2.7,2024-11-11
+TE240568,C1101,Customer_235,USA,CNC Cutting Tools,Ball Nose End Mill,10,35.0,14.0,2024-07-21
+TE240569,C1171,Customer_431,Brazil,Hand Tools,Gardening Gloves,268,4.0,1.6,2024-08-13
+TE240570,C1172,Customer_221,Kenya,Hand Tools,Wheelbarrow,433,45.0,18.0,2024-10-31
+TE240571,C1070,Customer_154,Japan,CNC Cutting Tools,Taper Shank Drill,35,28.0,11.2,2024-09-02
+TE240572,C1161,Customer_91,Egypt,Hand Tools,Iron Rake,249,7.5,3.0,2024-12-21
+TE240573,C1325,Customer_252,Egypt,Hand Tools,Gardening Gloves,224,4.0,1.6,2024-06-15
+TE240574,C1193,Customer_144,Kenya,Hand Tools,Steel Mattock,286,8.5,3.4,2024-02-28
+TE240575,C1478,Customer_289,France,Hand Tools,Pruning Shears,192,12.0,4.8,2024-12-15
+TE240576,C1394,Customer_282,Germany,Hand Tools,Watering Can,336,6.0,2.4,2024-12-28
+TE240577,C1108,Customer_225,Kenya,CNC Cutting Tools,Taper Shank Drill,18,28.0,11.2,2024-07-28
+TE240578,C1345,Customer_256,UK,Hand Tools,Mini Garden Trowel,223,5.0,2.0,2024-05-09
+TE240579,C1338,Customer_79,Spain,Hand Tools,Gardening Gloves,293,4.0,1.6,2024-02-07
+TE240580,C1230,Customer_307,India,Hand Tools,Steel Mattock,373,8.5,3.4,2024-09-16
+TE240581,C1473,Customer_472,Uganda,Hand Tools,Steel Mattock,378,8.5,3.4,2024-01-19
+TE240582,C1405,Customer_496,Canada,Hand Tools,Seedling Tray,374,3.5,1.4,2024-10-31
+TE240583,C1327,Customer_469,USA,CNC Cutting Tools,Face Mill Cutter,94,120.0,48.0,2024-12-06
+TE240584,C1182,Customer_86,Mexico,Hand Tools,Steel Pickaxe,388,8.0,3.2,2024-11-26
+TE240585,C1347,Customer_332,Canada,CNC Cutting Tools,Threading Tap M8,65,5.0,2.0,2024-02-24
+TE240586,C1006,Customer_51,Italy,CNC Cutting Tools,End Mill Holder,76,50.0,20.0,2024-10-12
+TE240587,C1298,Customer_353,Thailand,CNC Cutting Tools,Reamer Φ12mm,57,40.0,16.0,2024-07-19
+TE240588,C1238,Customer_396,Mexico,CNC Cutting Tools,Taper Shank Drill,74,28.0,11.2,2024-03-18
+TE240589,C1177,Customer_13,India,CNC Cutting Tools,Ball Nose End Mill,63,35.0,14.0,2024-02-13
+TE240590,C1060,Customer_426,Senegal,CNC Cutting Tools,Drill Bit Φ10mm,54,30.0,12.0,2024-06-08
+TE240591,C1176,Customer_234,Nigeria,CNC Cutting Tools,End Mill Holder,71,50.0,20.0,2024-06-27
+TE240592,C1244,Customer_50,Australia,CNC Cutting Tools,Taper Shank Drill,67,28.0,11.2,2024-06-12
+TE240593,C1035,Customer_154,Germany,CNC Cutting Tools,Taper Shank Drill,24,28.0,11.2,2024-01-12
+TE240594,C1435,Customer_176,Mexico,Hand Tools,Hand Saw,184,10.0,4.0,2024-05-04
+TE240595,C1265,Customer_90,Thailand,Hand Tools,Iron Rake,386,7.5,3.0,2024-08-06
+TE240596,C1491,Customer_237,France,CNC Cutting Tools,Slotting Cutter,90,80.0,32.0,2024-04-04
+TE240597,C1096,Customer_328,Mexico,Hand Tools,Steel Mattock,114,8.5,3.4,2024-11-10
+TE240598,C1453,Customer_102,Australia,CNC Cutting Tools,Slotting Cutter,59,80.0,32.0,2024-01-03
+TE240599,C1361,Customer_110,France,CNC Cutting Tools,Taper Shank Drill,18,28.0,11.2,2024-10-22
+TE240600,C1053,Customer_410,Uganda,CNC Cutting Tools,Drill Bit Φ10mm,56,30.0,12.0,2024-06-15
+TE240601,C1101,Customer_235,USA,CNC Cutting Tools,Milling Cutter Set,72,300.0,120.0,2024-09-27
+TE240602,C1495,Customer_328,Japan,CNC Cutting Tools,Slotting Cutter,88,80.0,32.0,2024-07-19
+TE240603,C1301,Customer_59,Canada,CNC Cutting Tools,Reamer Φ12mm,89,40.0,16.0,2024-03-29
+TE240604,C1417,Customer_345,Spain,CNC Cutting Tools,Ball Nose End Mill,88,35.0,14.0,2024-10-29
+TE240605,C1044,Customer_345,UK,CNC Cutting Tools,Indexable Insert TNMG1604,40,3.8,1.5,2024-06-05
+TE240606,C1060,Customer_94,Canada,CNC Cutting Tools,Drill Bit Φ10mm,75,30.0,12.0,2024-07-17
+TE240607,C1215,Customer_306,UK,CNC Cutting Tools,Slotting Cutter,64,80.0,32.0,2024-04-05
+TE240608,C1250,Customer_326,Vietnam,Hand Tools,Seedling Tray,430,3.5,1.4,2024-03-29
+TE240609,C1285,Customer_86,India,Hand Tools,Steel Shovel,195,7.2,2.9,2024-06-10
+TE240610,C1432,Customer_231,Brazil,Hand Tools,Wheelbarrow,283,45.0,18.0,2024-01-05
+TE240611,C1249,Customer_70,France,CNC Cutting Tools,Slotting Cutter,81,80.0,32.0,2024-09-15
+TE240612,C1335,Customer_254,Australia,CNC Cutting Tools,Reamer Φ12mm,63,40.0,16.0,2024-12-29
+TE240613,C1431,Customer_228,India,Hand Tools,Garden Hoe,389,6.5,2.6,2024-01-16
+TE240614,C1408,Customer_390,France,CNC Cutting Tools,Carbide End Mill Φ6mm,45,25.0,10.5,2024-04-25
+TE240615,C1276,Customer_148,UK,Hand Tools,Garden Fork,389,6.8,2.7,2024-09-10
+TE240616,C1282,Customer_262,USA,Hand Tools,Garden Hoe,237,6.5,2.6,2024-10-05
+TE240617,C1422,Customer_188,Vietnam,CNC Cutting Tools,Carbide End Mill Φ6mm,66,25.0,10.5,2024-10-06
+TE240618,C1112,Customer_218,USA,CNC Cutting Tools,Milling Cutter Set,41,300.0,120.0,2024-06-01
+TE240619,C1448,Customer_17,Australia,Hand Tools,Iron Rake,144,7.5,3.0,2024-08-12
+TE240620,C1444,Customer_61,Nigeria,Hand Tools,Wooden Handle Axe,207,9.0,3.6,2024-10-28
+TE240621,C1353,Customer_180,Uganda,CNC Cutting Tools,Lathe Tool Bit,90,18.0,7.2,2024-08-07
+TE240622,C1085,Customer_316,UK,CNC Cutting Tools,Face Mill Cutter,36,120.0,48.0,2024-01-31
+TE240623,C1292,Customer_180,Vietnam,Hand Tools,Hoe with Long Handle,375,7.0,2.8,2024-03-27
+TE240624,C1166,Customer_361,Japan,CNC Cutting Tools,Lathe Tool Bit,44,18.0,7.2,2024-09-20
+TE240625,C1461,Customer_348,Kenya,Hand Tools,Steel Shovel,484,7.2,2.9,2024-07-29
+TE240626,C1471,Customer_31,South Africa,Hand Tools,Wheelbarrow,435,45.0,18.0,2024-03-05
+TE240627,C1360,Customer_444,UK,CNC Cutting Tools,Drill Bit Φ10mm,51,30.0,12.0,2024-05-06
+TE240628,C1390,Customer_432,Mexico,Hand Tools,Garden Fork,172,6.8,2.7,2024-10-22
+TE240629,C1324,Customer_138,Brazil,CNC Cutting Tools,Slotting Cutter,67,80.0,32.0,2024-02-08
+TE240630,C1325,Customer_407,Uganda,Hand Tools,Garden Hoe,306,6.5,2.6,2024-09-20
+TE240631,C1384,Customer_143,Spain,Hand Tools,Seedling Tray,288,3.5,1.4,2024-08-20
+TE240632,C1487,Customer_250,Japan,Hand Tools,Steel Pickaxe,496,8.0,3.2,2024-02-17
+TE240633,C1375,Customer_498,Australia,CNC Cutting Tools,Milling Cutter Set,99,300.0,120.0,2024-07-02
+TE240634,C1436,Customer_33,Nigeria,Hand Tools,Steel Mattock,211,8.5,3.4,2024-08-07
+TE240635,C1423,Customer_109,India,CNC Cutting Tools,Threading Tap M8,46,5.0,2.0,2024-06-21
+TE240636,C1281,Customer_296,UK,CNC Cutting Tools,Reamer Φ12mm,53,40.0,16.0,2024-12-15
+TE240637,C1391,Customer_25,Germany,CNC Cutting Tools,Milling Cutter Set,68,300.0,120.0,2024-01-09
+TE240638,C1064,Customer_476,Uganda,Hand Tools,Garden Fork,333,6.8,2.7,2024-01-01
+TE240639,C1491,Customer_220,France,CNC Cutting Tools,Taper Shank Drill,26,28.0,11.2,2024-11-28
+TE240640,C1155,Customer_82,Uganda,Hand Tools,Seedling Tray,240,3.5,1.4,2024-02-17
+TE240641,C1336,Customer_185,Italy,CNC Cutting Tools,Threading Tap M8,95,5.0,2.0,2024-11-28
+TE240642,C1085,Customer_27,Canada,CNC Cutting Tools,Ball Nose End Mill,99,35.0,14.0,2024-04-29
+TE240643,C1220,Customer_336,USA,CNC Cutting Tools,Indexable Insert TNMG1604,10,3.8,1.5,2024-04-19
+TE240644,C1245,Customer_40,UK,CNC Cutting Tools,Face Mill Cutter,76,120.0,48.0,2024-12-14
+TE240645,C1228,Customer_5,Germany,CNC Cutting Tools,Threading Tap M8,25,5.0,2.0,2024-08-04
+TE240646,C1356,Customer_68,India,Hand Tools,Wooden Handle Axe,296,9.0,3.6,2024-02-15
+TE240647,C1375,Customer_413,USA,CNC Cutting Tools,Threading Tap M8,57,5.0,2.0,2024-06-02
+TE240648,C1071,Customer_196,Nigeria,Hand Tools,Gardening Gloves,168,4.0,1.6,2024-11-24
+TE240649,C1347,Customer_74,USA,CNC Cutting Tools,Lathe Tool Bit,11,18.0,7.2,2024-11-08
+TE240650,C1333,Customer_85,Australia,CNC Cutting Tools,Taper Shank Drill,37,28.0,11.2,2024-11-17
+TE240651,C1384,Customer_78,Senegal,CNC Cutting Tools,Lathe Tool Bit,97,18.0,7.2,2024-08-14
+TE240652,C1441,Customer_112,USA,CNC Cutting Tools,Indexable Insert TNMG1604,27,3.8,1.5,2024-03-04
+TE240653,C1302,Customer_374,Canada,CNC Cutting Tools,Slotting Cutter,50,80.0,32.0,2024-03-12
+TE240654,C1127,Customer_142,Mexico,Hand Tools,Wooden Handle Axe,383,9.0,3.6,2024-11-03
+TE240655,C1308,Customer_370,Brazil,Hand Tools,Gardening Gloves,453,4.0,1.6,2024-01-14
+TE240656,C1435,Customer_434,Mexico,CNC Cutting Tools,Ball Nose End Mill,36,35.0,14.0,2024-09-22
+TE240657,C1311,Customer_261,France,CNC Cutting Tools,Slotting Cutter,47,80.0,32.0,2024-11-26
+TE240658,C1028,Customer_402,Cameroon,Hand Tools,Wooden Handle Axe,353,9.0,3.6,2024-07-16
+TE240659,C1058,Customer_124,India,Hand Tools,Hoe with Long Handle,136,7.0,2.8,2024-09-27
+TE240660,C1456,Customer_7,South Africa,Hand Tools,Seedling Tray,262,3.5,1.4,2024-03-08
+TE240661,C1199,Customer_441,Ghana,Hand Tools,Steel Mattock,287,8.5,3.4,2024-10-06
+TE240662,C1350,Customer_89,Sweden,Hand Tools,Gardening Gloves,137,4.0,1.6,2024-01-09
+TE240663,C1301,Customer_35,Germany,CNC Cutting Tools,Face Mill Cutter,15,120.0,48.0,2024-01-31
+TE240664,C1486,Customer_405,Canada,CNC Cutting Tools,Ball Nose End Mill,90,35.0,14.0,2024-12-30
+TE240665,C1257,Customer_393,Australia,CNC Cutting Tools,Taper Shank Drill,61,28.0,11.2,2024-02-12
+TE240666,C1328,Customer_275,Vietnam,CNC Cutting Tools,Drill Bit Φ10mm,45,30.0,12.0,2024-02-12
+TE240667,C1159,Customer_41,Vietnam,Hand Tools,Wooden Handle Axe,179,9.0,3.6,2024-10-01
+TE240668,C1168,Customer_201,Thailand,CNC Cutting Tools,Milling Cutter Set,97,300.0,120.0,2024-11-25
+TE240669,C1034,Customer_159,Spain,CNC Cutting Tools,Taper Shank Drill,40,28.0,11.2,2024-01-30
+TE240670,C1126,Customer_45,Senegal,Hand Tools,Garden Hoe,332,6.5,2.6,2024-11-09
+TE240671,C1312,Customer_29,Japan,CNC Cutting Tools,Taper Shank Drill,94,28.0,11.2,2024-03-30
+TE240672,C1062,Customer_7,Spain,Hand Tools,Watering Can,105,6.0,2.4,2024-03-24
+TE240673,C1255,Customer_488,Japan,CNC Cutting Tools,End Mill Holder,43,50.0,20.0,2024-03-26
+TE240674,C1191,Customer_65,Sweden,Hand Tools,Wheelbarrow,237,45.0,18.0,2024-03-01
+TE240675,C1395,Customer_461,Germany,CNC Cutting Tools,Slotting Cutter,44,80.0,32.0,2024-09-25
+TE240676,C1033,Customer_135,Spain,Hand Tools,Hoe with Long Handle,421,7.0,2.8,2024-02-09
+TE240677,C1255,Customer_234,Vietnam,CNC Cutting Tools,Carbide End Mill Φ6mm,73,25.0,10.5,2024-10-17
+TE240678,C1086,Customer_189,UK,CNC Cutting Tools,Indexable Insert TNMG1604,83,3.8,1.5,2024-12-11
+TE240679,C1371,Customer_60,France,Hand Tools,Pruning Shears,101,12.0,4.8,2024-01-23
+TE240680,C1440,Customer_442,Germany,Hand Tools,Steel Pickaxe,341,8.0,3.2,2024-07-05
+TE240681,C1197,Customer_472,UK,Hand Tools,Seedling Tray,118,3.5,1.4,2024-10-10
+TE240682,C1412,Customer_468,Spain,Hand Tools,Hand Saw,314,10.0,4.0,2024-04-24
+TE240683,C1165,Customer_128,Australia,CNC Cutting Tools,Taper Shank Drill,50,28.0,11.2,2024-05-18
+TE240684,C1423,Customer_40,Thailand,Hand Tools,Garden Hoe,357,6.5,2.6,2024-12-10
+TE240685,C1462,Customer_27,France,Hand Tools,Gardening Gloves,364,4.0,1.6,2024-01-24
+TE240686,C1489,Customer_206,USA,CNC Cutting Tools,Reamer Φ12mm,46,40.0,16.0,2024-06-08
+TE240687,C1168,Customer_45,Thailand,Hand Tools,Steel Pickaxe,288,8.0,3.2,2024-04-12
+TE240688,C1150,Customer_289,Nigeria,Hand Tools,Watering Can,418,6.0,2.4,2024-05-04
+TE240689,C1238,Customer_189,Thailand,Hand Tools,Garden Fork,495,6.8,2.7,2024-04-10
+TE240690,C1376,Customer_462,Vietnam,CNC Cutting Tools,Face Mill Cutter,29,120.0,48.0,2024-01-04
+TE240691,C1478,Customer_210,Germany,CNC Cutting Tools,End Mill Holder,54,50.0,20.0,2024-11-21
+TE240692,C1430,Customer_356,Uganda,Hand Tools,Iron Rake,100,7.5,3.0,2024-12-02
+TE240693,C1193,Customer_435,Sweden,Hand Tools,Mini Garden Trowel,153,5.0,2.0,2024-04-15
+TE240694,C1272,Customer_122,Australia,CNC Cutting Tools,Carbide End Mill Φ6mm,28,25.0,10.5,2024-12-30
+TE240695,C1144,Customer_48,Germany,CNC Cutting Tools,Face Mill Cutter,76,120.0,48.0,2024-07-30
+TE240696,C1359,Customer_459,Canada,CNC Cutting Tools,Taper Shank Drill,20,28.0,11.2,2024-10-24
+TE240697,C1049,Customer_259,UK,CNC Cutting Tools,Slotting Cutter,19,80.0,32.0,2024-10-30
+TE240698,C1291,Customer_32,Australia,CNC Cutting Tools,Drill Bit Φ10mm,40,30.0,12.0,2024-05-29
+TE240699,C1134,Customer_436,Japan,CNC Cutting Tools,Slotting Cutter,99,80.0,32.0,2024-06-16
+TE240700,C1163,Customer_232,Italy,CNC Cutting Tools,Indexable Insert TNMG1604,35,3.8,1.5,2024-03-10
+TE240701,C1400,Customer_395,Thailand,Hand Tools,Steel Shovel,154,7.2,2.9,2024-03-25
+TE240702,C1231,Customer_239,Japan,CNC Cutting Tools,Indexable Insert TNMG1604,78,3.8,1.5,2024-07-02
+TE240703,C1494,Customer_395,France,CNC Cutting Tools,Ball Nose End Mill,69,35.0,14.0,2024-05-15
+TE240704,C1437,Customer_62,USA,CNC Cutting Tools,Milling Cutter Set,48,300.0,120.0,2024-12-26
+TE240705,C1357,Customer_309,Germany,CNC Cutting Tools,Threading Tap M8,28,5.0,2.0,2024-02-16
+TE240706,C1365,Customer_128,Egypt,Hand Tools,Steel Mattock,362,8.5,3.4,2024-01-26
+TE240707,C1347,Customer_154,Italy,CNC Cutting Tools,Drill Bit Φ10mm,13,30.0,12.0,2024-07-26
+TE240708,C1438,Customer_232,Thailand,Hand Tools,Pruning Shears,227,12.0,4.8,2024-02-18
+TE240709,C1237,Customer_53,Kenya,Hand Tools,Steel Shovel,162,7.2,2.9,2024-01-07
+TE240710,C1032,Customer_426,Nigeria,Hand Tools,Wooden Handle Axe,166,9.0,3.6,2024-04-11
+TE240711,C1422,Customer_206,Canada,CNC Cutting Tools,Milling Cutter Set,92,300.0,120.0,2024-02-13
+TE240712,C1299,Customer_301,Italy,CNC Cutting Tools,Indexable Insert TNMG1604,12,3.8,1.5,2024-02-03
+TE240713,C1102,Customer_463,Mexico,Hand Tools,Gardening Gloves,165,4.0,1.6,2024-02-17
+TE240714,C1464,Customer_434,Ghana,Hand Tools,Iron Rake,162,7.5,3.0,2024-01-22
+TE240715,C1483,Customer_237,Germany,CNC Cutting Tools,Lathe Tool Bit,65,18.0,7.2,2024-07-21
+TE240716,C1255,Customer_16,Canada,Hand Tools,Steel Mattock,188,8.5,3.4,2024-06-30
+TE240717,C1110,Customer_466,France,Hand Tools,Mini Garden Trowel,328,5.0,2.0,2024-03-17
+TE240718,C1018,Customer_315,Brazil,Hand Tools,Wooden Handle Axe,431,9.0,3.6,2024-05-31
+TE240719,C1256,Customer_211,Uganda,CNC Cutting Tools,Reamer Φ12mm,17,40.0,16.0,2024-02-14
+TE240720,C1144,Customer_197,UK,CNC Cutting Tools,Face Mill Cutter,92,120.0,48.0,2024-09-26
+TE240721,C1128,Customer_323,South Africa,Hand Tools,Pruning Shears,109,12.0,4.8,2024-07-14
+TE240722,C1401,Customer_366,Canada,CNC Cutting Tools,End Mill Holder,72,50.0,20.0,2024-06-25
+TE240723,C1468,Customer_290,India,CNC Cutting Tools,Slotting Cutter,44,80.0,32.0,2024-04-02
+TE240724,C1014,Customer_164,Brazil,Hand Tools,Steel Pickaxe,498,8.0,3.2,2024-05-23
+TE240725,C1030,Customer_415,South Africa,Hand Tools,Pruning Shears,283,12.0,4.8,2024-10-26
+TE240726,C1120,Customer_499,UK,Hand Tools,Wooden Handle Axe,436,9.0,3.6,2024-05-03
+TE240727,C1137,Customer_274,Kenya,CNC Cutting Tools,Taper Shank Drill,17,28.0,11.2,2024-04-22
+TE240728,C1295,Customer_434,South Africa,Hand Tools,Steel Mattock,281,8.5,3.4,2024-03-29
+TE240729,C1091,Customer_122,Thailand,Hand Tools,Gardening Gloves,477,4.0,1.6,2024-12-23
+TE240730,C1184,Customer_468,Thailand,CNC Cutting Tools,Taper Shank Drill,99,28.0,11.2,2024-06-29
+TE240731,C1486,Customer_291,Thailand,CNC Cutting Tools,Lathe Tool Bit,34,18.0,7.2,2024-09-09
+TE240732,C1278,Customer_159,France,Hand Tools,Steel Pickaxe,146,8.0,3.2,2024-01-29
+TE240733,C1120,Customer_309,France,CNC Cutting Tools,End Mill Holder,71,50.0,20.0,2024-01-01
+TE240734,C1170,Customer_470,Brazil,Hand Tools,Gardening Gloves,166,4.0,1.6,2024-06-23
+TE240735,C1368,Customer_91,Senegal,Hand Tools,Wheelbarrow,265,45.0,18.0,2024-01-31
+TE240736,C1012,Customer_76,Thailand,Hand Tools,Seedling Tray,172,3.5,1.4,2024-02-26
+TE240737,C1434,Customer_270,Uganda,Hand Tools,Garden Hoe,291,6.5,2.6,2024-12-26
+TE240738,C1483,Customer_340,Canada,Hand Tools,Garden Hoe,272,6.5,2.6,2024-06-03
+TE240739,C1166,Customer_70,South Africa,Hand Tools,Watering Can,323,6.0,2.4,2024-11-23
+TE240740,C1492,Customer_250,Mexico,Hand Tools,Steel Shovel,462,7.2,2.9,2024-10-14
+TE240741,C1356,Customer_456,Senegal,Hand Tools,Gardening Gloves,282,4.0,1.6,2024-04-24
+TE240742,C1341,Customer_302,Kenya,Hand Tools,Steel Mattock,257,8.5,3.4,2024-12-18
+TE240743,C1151,Customer_66,France,CNC Cutting Tools,Carbide End Mill Φ6mm,99,25.0,10.5,2024-10-20
+TE240744,C1201,Customer_436,South Africa,Hand Tools,Hoe with Long Handle,116,7.0,2.8,2024-04-03
+TE240745,C1309,Customer_163,Senegal,Hand Tools,Hoe with Long Handle,213,7.0,2.8,2024-11-23
+TE240746,C1290,Customer_54,Senegal,Hand Tools,Steel Shovel,269,7.2,2.9,2024-02-09
+TE240747,C1122,Customer_178,South Africa,Hand Tools,Steel Shovel,425,7.2,2.9,2024-02-15
+TE240748,C1421,Customer_363,Mexico,Hand Tools,Watering Can,271,6.0,2.4,2024-08-16
+TE240749,C1006,Customer_136,France,Hand Tools,Watering Can,134,6.0,2.4,2024-06-28
+TE240750,C1132,Customer_403,USA,CNC Cutting Tools,Carbide End Mill Φ6mm,16,25.0,10.5,2024-07-16
+TE240751,C1225,Customer_376,Australia,CNC Cutting Tools,Drill Bit Φ10mm,62,30.0,12.0,2024-09-09
+TE240752,C1452,Customer_194,Canada,Hand Tools,Steel Mattock,151,8.5,3.4,2024-09-02
+TE240753,C1404,Customer_443,Thailand,Hand Tools,Gardening Gloves,451,4.0,1.6,2024-04-25
+TE240754,C1084,Customer_232,USA,CNC Cutting Tools,Carbide End Mill Φ6mm,47,25.0,10.5,2024-01-11
+TE240755,C1164,Customer_134,Egypt,CNC Cutting Tools,Indexable Insert TNMG1604,53,3.8,1.5,2024-03-28
+TE240756,C1455,Customer_193,UK,CNC Cutting Tools,Indexable Insert TNMG1604,80,3.8,1.5,2024-02-17
+TE240757,C1174,Customer_305,South Africa,Hand Tools,Seedling Tray,347,3.5,1.4,2024-12-26
+TE240758,C1016,Customer_221,Egypt,Hand Tools,Steel Shovel,410,7.2,2.9,2024-08-10
+TE240759,C1081,Customer_28,USA,Hand Tools,Wooden Handle Axe,197,9.0,3.6,2024-07-28
+TE240760,C1357,Customer_284,Spain,Hand Tools,Watering Can,376,6.0,2.4,2024-05-15
+TE240761,C1339,Customer_145,Japan,CNC Cutting Tools,Indexable Insert TNMG1604,16,3.8,1.5,2024-07-20
+TE240762,C1293,Customer_282,Ghana,Hand Tools,Steel Shovel,127,7.2,2.9,2024-07-03
+TE240763,C1002,Customer_219,USA,CNC Cutting Tools,Milling Cutter Set,90,300.0,120.0,2024-11-03
+TE240764,C1246,Customer_103,USA,CNC Cutting Tools,Face Mill Cutter,31,120.0,48.0,2024-11-22
+TE240765,C1150,Customer_42,India,CNC Cutting Tools,Indexable Insert TNMG1604,49,3.8,1.5,2024-07-22
+TE240766,C1242,Customer_251,Cameroon,Hand Tools,Mini Garden Trowel,146,5.0,2.0,2024-11-24
+TE240767,C1279,Customer_199,France,CNC Cutting Tools,Slotting Cutter,57,80.0,32.0,2024-04-05
+TE240768,C1229,Customer_23,Italy,Hand Tools,Garden Fork,234,6.8,2.7,2024-04-25
+TE240769,C1429,Customer_138,Thailand,Hand Tools,Steel Shovel,485,7.2,2.9,2024-12-22
+TE240770,C1342,Customer_50,USA,Hand Tools,Iron Rake,377,7.5,3.0,2024-07-30
+TE240771,C1498,Customer_388,Thailand,CNC Cutting Tools,End Mill Holder,17,50.0,20.0,2024-07-17
+TE240772,C1420,Customer_268,Australia,Hand Tools,Pruning Shears,451,12.0,4.8,2024-08-31
+TE240773,C1294,Customer_452,Italy,CNC Cutting Tools,Ball Nose End Mill,20,35.0,14.0,2024-07-21
+TE240774,C1463,Customer_438,Spain,Hand Tools,Pruning Shears,392,12.0,4.8,2024-09-21
+TE240775,C1410,Customer_293,Mexico,Hand Tools,Hoe with Long Handle,175,7.0,2.8,2024-03-02
+TE240776,C1487,Customer_388,Australia,CNC Cutting Tools,Drill Bit Φ10mm,37,30.0,12.0,2024-04-08
+TE240777,C1065,Customer_22,Australia,CNC Cutting Tools,Milling Cutter Set,65,300.0,120.0,2024-04-13
+TE240778,C1422,Customer_322,UK,CNC Cutting Tools,Lathe Tool Bit,43,18.0,7.2,2024-06-12
+TE240779,C1467,Customer_373,Senegal,Hand Tools,Garden Hoe,144,6.5,2.6,2024-07-17
+TE240780,C1285,Customer_204,Thailand,Hand Tools,Wheelbarrow,241,45.0,18.0,2024-09-23
+TE240781,C1235,Customer_470,Uganda,Hand Tools,Gardening Gloves,458,4.0,1.6,2024-11-15
+TE240782,C1301,Customer_268,Nigeria,Hand Tools,Garden Hoe,312,6.5,2.6,2024-03-17
+TE240783,C1076,Customer_291,Thailand,Hand Tools,Gardening Gloves,151,4.0,1.6,2024-02-24
+TE240784,C1289,Customer_400,USA,CNC Cutting Tools,Ball Nose End Mill,78,35.0,14.0,2024-06-25
+TE240785,C1450,Customer_211,Italy,CNC Cutting Tools,Milling Cutter Set,72,300.0,120.0,2024-10-19
+TE240786,C1312,Customer_243,Germany,Hand Tools,Mini Garden Trowel,306,5.0,2.0,2024-03-14
+TE240787,C1317,Customer_312,Mexico,Hand Tools,Steel Mattock,119,8.5,3.4,2024-07-21
+TE240788,C1456,Customer_451,Japan,CNC Cutting Tools,Face Mill Cutter,16,120.0,48.0,2024-08-31
+TE240789,C1472,Customer_138,Cameroon,Hand Tools,Steel Pickaxe,272,8.0,3.2,2024-06-04
+TE240790,C1160,Customer_144,Ghana,Hand Tools,Wheelbarrow,456,45.0,18.0,2024-12-16
+TE240791,C1051,Customer_498,Uganda,CNC Cutting Tools,Drill Bit Φ10mm,48,30.0,12.0,2024-08-14
+TE240792,C1397,Customer_423,Japan,CNC Cutting Tools,Taper Shank Drill,63,28.0,11.2,2024-11-05
+TE240793,C1331,Customer_46,France,CNC Cutting Tools,Face Mill Cutter,62,120.0,48.0,2024-09-05
+TE240794,C1389,Customer_265,Uganda,Hand Tools,Wheelbarrow,128,45.0,18.0,2024-09-20
+TE240795,C1406,Customer_82,USA,CNC Cutting Tools,Taper Shank Drill,74,28.0,11.2,2024-07-25
+TE240796,C1070,Customer_400,Ghana,Hand Tools,Seedling Tray,391,3.5,1.4,2024-01-15
+TE240797,C1089,Customer_99,Uganda,Hand Tools,Wooden Handle Axe,129,9.0,3.6,2024-05-07
+TE240798,C1017,Customer_234,Germany,CNC Cutting Tools,Threading Tap M8,100,5.0,2.0,2024-04-11
+TE240799,C1141,Customer_189,Kenya,Hand Tools,Pruning Shears,303,12.0,4.8,2024-11-21
+TE240800,C1473,Customer_64,Spain,Hand Tools,Wooden Handle Axe,290,9.0,3.6,2024-09-07
+TE240801,C1305,Customer_229,France,CNC Cutting Tools,Reamer Φ12mm,85,40.0,16.0,2024-10-09
+TE240802,C1180,Customer_177,UK,CNC Cutting Tools,Ball Nose End Mill,98,35.0,14.0,2024-02-16
+TE240803,C1146,Customer_15,Canada,CNC Cutting Tools,Drill Bit Φ10mm,83,30.0,12.0,2024-04-19
+TE240804,C1439,Customer_114,Mexico,Hand Tools,Hand Saw,205,10.0,4.0,2024-05-17
+TE240805,C1334,Customer_210,Vietnam,Hand Tools,Wheelbarrow,499,45.0,18.0,2024-12-15
+TE240806,C1005,Customer_243,Cameroon,Hand Tools,Hand Saw,188,10.0,4.0,2024-11-03
+TE240807,C1411,Customer_5,France,Hand Tools,Hoe with Long Handle,256,7.0,2.8,2024-12-30
+TE240808,C1496,Customer_364,Mexico,Hand Tools,Steel Mattock,292,8.5,3.4,2024-06-27
+TE240809,C1236,Customer_130,France,CNC Cutting Tools,Ball Nose End Mill,96,35.0,14.0,2024-09-23
+TE240810,C1423,Customer_320,Canada,CNC Cutting Tools,Indexable Insert TNMG1604,10,3.8,1.5,2024-09-18
+TE240811,C1340,Customer_495,Ghana,Hand Tools,Iron Rake,387,7.5,3.0,2024-11-27
+TE240812,C1305,Customer_312,Italy,Hand Tools,Hand Saw,155,10.0,4.0,2024-09-03
+TE240813,C1033,Customer_173,South Africa,CNC Cutting Tools,Milling Cutter Set,51,300.0,120.0,2024-05-21
+TE240814,C1134,Customer_336,Spain,Hand Tools,Seedling Tray,433,3.5,1.4,2024-06-01
+TE240815,C1097,Customer_77,Vietnam,Hand Tools,Wooden Handle Axe,129,9.0,3.6,2024-11-03
+TE240816,C1207,Customer_339,Japan,CNC Cutting Tools,Drill Bit Φ10mm,13,30.0,12.0,2024-12-01
+TE240817,C1255,Customer_152,Italy,CNC Cutting Tools,Slotting Cutter,61,80.0,32.0,2024-07-17
+TE240818,C1378,Customer_19,Thailand,Hand Tools,Hoe with Long Handle,197,7.0,2.8,2024-06-24
+TE240819,C1372,Customer_366,France,CNC Cutting Tools,End Mill Holder,91,50.0,20.0,2024-08-31
+TE240820,C1465,Customer_482,Mexico,Hand Tools,Pruning Shears,253,12.0,4.8,2024-03-28
+TE240821,C1431,Customer_337,Uganda,Hand Tools,Steel Shovel,250,7.2,2.9,2024-02-19
+TE240822,C1242,Customer_66,Sweden,CNC Cutting Tools,Taper Shank Drill,81,28.0,11.2,2024-04-03
+TE240823,C1485,Customer_349,Cameroon,Hand Tools,Hand Saw,145,10.0,4.0,2024-04-23
+TE240824,C1182,Customer_115,Sweden,Hand Tools,Mini Garden Trowel,315,5.0,2.0,2024-06-18
+TE240825,C1191,Customer_134,Thailand,Hand Tools,Garden Fork,160,6.8,2.7,2024-08-28
+TE240826,C1028,Customer_444,Brazil,Hand Tools,Hoe with Long Handle,417,7.0,2.8,2024-02-06
+TE240827,C1242,Customer_456,France,CNC Cutting Tools,Indexable Insert TNMG1604,97,3.8,1.5,2024-07-14
+TE240828,C1272,Customer_153,Australia,CNC Cutting Tools,Drill Bit Φ10mm,27,30.0,12.0,2024-04-12
+TE240829,C1176,Customer_210,South Africa,Hand Tools,Seedling Tray,334,3.5,1.4,2024-03-14
+TE240830,C1162,Customer_442,Spain,Hand Tools,Gardening Gloves,141,4.0,1.6,2024-09-06
+TE240831,C1171,Customer_324,South Africa,Hand Tools,Iron Rake,424,7.5,3.0,2024-01-30
+TE240832,C1003,Customer_232,Italy,CNC Cutting Tools,Drill Bit Φ10mm,83,30.0,12.0,2024-03-22
+TE240833,C1251,Customer_403,Sweden,CNC Cutting Tools,Indexable Insert TNMG1604,26,3.8,1.5,2024-11-10
+TE240834,C1223,Customer_325,Australia,CNC Cutting Tools,Slotting Cutter,71,80.0,32.0,2024-07-15
+TE240835,C1003,Customer_20,Vietnam,Hand Tools,Watering Can,291,6.0,2.4,2024-01-08
+TE240836,C1457,Customer_165,Sweden,Hand Tools,Pruning Shears,197,12.0,4.8,2024-01-10
+TE240837,C1347,Customer_3,Brazil,Hand Tools,Wooden Handle Axe,215,9.0,3.6,2024-12-21
+TE240838,C1450,Customer_177,Japan,CNC Cutting Tools,Indexable Insert TNMG1604,59,3.8,1.5,2024-09-14
+TE240839,C1302,Customer_157,UK,CNC Cutting Tools,Carbide End Mill Φ6mm,48,25.0,10.5,2024-05-28
+TE240840,C1234,Customer_373,Vietnam,Hand Tools,Pruning Shears,272,12.0,4.8,2024-08-10
+TE240841,C1455,Customer_352,South Africa,CNC Cutting Tools,Threading Tap M8,72,5.0,2.0,2024-07-02
+TE240842,C1385,Customer_97,UK,CNC Cutting Tools,Slotting Cutter,12,80.0,32.0,2024-04-26
+TE240843,C1115,Customer_373,South Africa,CNC Cutting Tools,Face Mill Cutter,12,120.0,48.0,2024-10-28
+TE240844,C1259,Customer_87,UK,Hand Tools,Watering Can,433,6.0,2.4,2024-01-20
+TE240845,C1193,Customer_449,Mexico,CNC Cutting Tools,End Mill Holder,89,50.0,20.0,2024-01-25
+TE240846,C1305,Customer_25,Mexico,Hand Tools,Hand Saw,110,10.0,4.0,2024-01-25
+TE240847,C1354,Customer_60,Australia,CNC Cutting Tools,Slotting Cutter,25,80.0,32.0,2024-10-07
+TE240848,C1130,Customer_243,Spain,Hand Tools,Wooden Handle Axe,455,9.0,3.6,2024-12-17
+TE240849,C1323,Customer_5,Japan,CNC Cutting Tools,Milling Cutter Set,22,300.0,120.0,2024-12-05
+TE240850,C1267,Customer_139,Brazil,Hand Tools,Watering Can,170,6.0,2.4,2024-08-02
+TE240851,C1426,Customer_461,USA,CNC Cutting Tools,Taper Shank Drill,89,28.0,11.2,2024-03-01
+TE240852,C1145,Customer_59,Nigeria,Hand Tools,Garden Fork,201,6.8,2.7,2024-11-07
+TE240853,C1103,Customer_399,Italy,CNC Cutting Tools,End Mill Holder,35,50.0,20.0,2024-07-02
+TE240854,C1361,Customer_210,Japan,Hand Tools,Steel Pickaxe,380,8.0,3.2,2024-09-11
+TE240855,C1467,Customer_107,Spain,Hand Tools,Garden Fork,269,6.8,2.7,2024-04-30
+TE240856,C1002,Customer_7,Mexico,CNC Cutting Tools,Indexable Insert TNMG1604,83,3.8,1.5,2024-12-08
+TE240857,C1253,Customer_77,Egypt,CNC Cutting Tools,End Mill Holder,19,50.0,20.0,2024-02-21
+TE240858,C1464,Customer_132,Mexico,Hand Tools,Garden Fork,251,6.8,2.7,2024-05-15
+TE240859,C1238,Customer_26,USA,CNC Cutting Tools,Drill Bit Φ10mm,15,30.0,12.0,2024-05-28
+TE240860,C1185,Customer_411,Mexico,CNC Cutting Tools,Slotting Cutter,24,80.0,32.0,2024-02-18
+TE240861,C1436,Customer_389,Cameroon,Hand Tools,Steel Pickaxe,170,8.0,3.2,2024-12-05
+TE240862,C1332,Customer_88,Japan,CNC Cutting Tools,Reamer Φ12mm,89,40.0,16.0,2024-05-17
+TE240863,C1450,Customer_376,USA,CNC Cutting Tools,Threading Tap M8,33,5.0,2.0,2024-02-28
+TE240864,C1206,Customer_205,Egypt,Hand Tools,Mini Garden Trowel,297,5.0,2.0,2024-12-19
+TE240865,C1436,Customer_245,Kenya,Hand Tools,Hand Saw,185,10.0,4.0,2024-02-27
+TE240866,C1068,Customer_357,Sweden,Hand Tools,Wheelbarrow,181,45.0,18.0,2024-02-23
+TE240867,C1214,Customer_467,Thailand,CNC Cutting Tools,Lathe Tool Bit,96,18.0,7.2,2024-08-12
+TE240868,C1093,Customer_313,Canada,CNC Cutting Tools,Threading Tap M8,88,5.0,2.0,2024-01-15
+TE240869,C1442,Customer_351,Uganda,Hand Tools,Watering Can,166,6.0,2.4,2024-09-04
+TE240870,C1472,Customer_250,USA,Hand Tools,Steel Mattock,325,8.5,3.4,2024-01-24
+TE240871,C1033,Customer_134,Mexico,Hand Tools,Steel Pickaxe,460,8.0,3.2,2024-12-13
+TE240872,C1269,Customer_393,Sweden,Hand Tools,Watering Can,389,6.0,2.4,2024-04-24
+TE240873,C1490,Customer_343,Uganda,Hand Tools,Pruning Shears,367,12.0,4.8,2024-12-18
+TE240874,C1359,Customer_317,USA,CNC Cutting Tools,Milling Cutter Set,41,300.0,120.0,2024-09-03
+TE240875,C1178,Customer_340,Mexico,CNC Cutting Tools,Slotting Cutter,29,80.0,32.0,2024-10-12
+TE240876,C1457,Customer_314,Germany,CNC Cutting Tools,Milling Cutter Set,30,300.0,120.0,2024-09-15
+TE240877,C1435,Customer_241,Ghana,Hand Tools,Wheelbarrow,184,45.0,18.0,2024-02-08
+TE240878,C1385,Customer_252,Japan,CNC Cutting Tools,Threading Tap M8,45,5.0,2.0,2024-01-26
+TE240879,C1260,Customer_115,Vietnam,CNC Cutting Tools,Slotting Cutter,61,80.0,32.0,2024-04-30
+TE240880,C1041,Customer_236,Australia,CNC Cutting Tools,Lathe Tool Bit,67,18.0,7.2,2024-02-15
+TE240881,C1439,Customer_256,Australia,CNC Cutting Tools,Indexable Insert TNMG1604,73,3.8,1.5,2024-11-30
+TE240882,C1010,Customer_53,Canada,CNC Cutting Tools,Carbide End Mill Φ6mm,81,25.0,10.5,2024-10-08
+TE240883,C1001,Customer_423,USA,CNC Cutting Tools,Lathe Tool Bit,89,18.0,7.2,2024-11-22
+TE240884,C1156,Customer_456,Vietnam,CNC Cutting Tools,Face Mill Cutter,93,120.0,48.0,2024-12-09
+TE240885,C1234,Customer_487,Japan,CNC Cutting Tools,Carbide End Mill Φ6mm,38,25.0,10.5,2024-08-20
+TE240886,C1170,Customer_287,Sweden,CNC Cutting Tools,Lathe Tool Bit,70,18.0,7.2,2024-12-02
+TE240887,C1187,Customer_367,Australia,CNC Cutting Tools,Indexable Insert TNMG1604,94,3.8,1.5,2024-04-23
+TE240888,C1002,Customer_175,Canada,CNC Cutting Tools,Milling Cutter Set,47,300.0,120.0,2024-10-07
+TE240889,C1268,Customer_192,Spain,CNC Cutting Tools,Carbide End Mill Φ6mm,31,25.0,10.5,2024-09-09
+TE240890,C1072,Customer_421,Spain,Hand Tools,Watering Can,309,6.0,2.4,2024-02-24
+TE240891,C1131,Customer_313,France,CNC Cutting Tools,Indexable Insert TNMG1604,60,3.8,1.5,2024-04-20
+TE240892,C1235,Customer_423,Nigeria,Hand Tools,Watering Can,273,6.0,2.4,2024-02-25
+TE240893,C1388,Customer_213,Germany,Hand Tools,Hand Saw,444,10.0,4.0,2024-10-28
+TE240894,C1064,Customer_396,Cameroon,Hand Tools,Garden Fork,437,6.8,2.7,2024-10-28
+TE240895,C1490,Customer_259,UK,CNC Cutting Tools,Reamer Φ12mm,10,40.0,16.0,2024-09-28
+TE240896,C1377,Customer_25,Thailand,Hand Tools,Steel Mattock,399,8.5,3.4,2024-09-04
+TE240897,C1474,Customer_261,Nigeria,Hand Tools,Seedling Tray,190,3.5,1.4,2024-12-20
+TE240898,C1297,Customer_89,Sweden,Hand Tools,Steel Shovel,153,7.2,2.9,2024-07-17
+TE240899,C1337,Customer_308,Brazil,CNC Cutting Tools,Threading Tap M8,74,5.0,2.0,2024-07-15
+TE240900,C1215,Customer_312,Senegal,CNC Cutting Tools,Face Mill Cutter,45,120.0,48.0,2024-07-22
+TE240901,C1494,Customer_176,Egypt,Hand Tools,Garden Fork,168,6.8,2.7,2024-03-11
+TE240902,C1212,Customer_309,Spain,CNC Cutting Tools,Taper Shank Drill,75,28.0,11.2,2024-06-02
+TE240903,C1432,Customer_360,Vietnam,CNC Cutting Tools,Threading Tap M8,80,5.0,2.0,2024-11-19
+TE240904,C1112,Customer_103,France,CNC Cutting Tools,Taper Shank Drill,47,28.0,11.2,2024-12-17
+TE240905,C1177,Customer_472,Mexico,Hand Tools,Watering Can,432,6.0,2.4,2024-04-01
+TE240906,C1258,Customer_278,Spain,Hand Tools,Iron Rake,463,7.5,3.0,2024-02-29
+TE240907,C1390,Customer_181,Thailand,Hand Tools,Hoe with Long Handle,392,7.0,2.8,2024-12-07
+TE240908,C1364,Customer_214,Mexico,Hand Tools,Seedling Tray,373,3.5,1.4,2024-05-26
+TE240909,C1450,Customer_434,Australia,CNC Cutting Tools,Carbide End Mill Φ6mm,76,25.0,10.5,2024-02-24
+TE240910,C1013,Customer_196,UK,CNC Cutting Tools,Milling Cutter Set,17,300.0,120.0,2024-04-12
+TE240911,C1137,Customer_385,Nigeria,Hand Tools,Mini Garden Trowel,449,5.0,2.0,2024-05-08
+TE240912,C1075,Customer_430,USA,CNC Cutting Tools,Ball Nose End Mill,36,35.0,14.0,2024-10-04
+TE240913,C1017,Customer_184,Kenya,Hand Tools,Garden Hoe,415,6.5,2.6,2024-12-11
+TE240914,C1379,Customer_288,Uganda,Hand Tools,Watering Can,431,6.0,2.4,2024-10-14
+TE240915,C1200,Customer_122,Vietnam,Hand Tools,Gardening Gloves,456,4.0,1.6,2024-05-27
+TE240916,C1355,Customer_341,Germany,CNC Cutting Tools,Slotting Cutter,59,80.0,32.0,2024-08-01
+TE240917,C1490,Customer_404,South Africa,Hand Tools,Iron Rake,382,7.5,3.0,2024-01-28
+TE240918,C1007,Customer_381,Italy,Hand Tools,Hoe with Long Handle,499,7.0,2.8,2024-08-14
+TE240919,C1425,Customer_116,Cameroon,Hand Tools,Watering Can,463,6.0,2.4,2024-11-27
+TE240920,C1189,Customer_387,Thailand,CNC Cutting Tools,Taper Shank Drill,87,28.0,11.2,2024-04-10
+TE240921,C1398,Customer_372,Egypt,Hand Tools,Mini Garden Trowel,329,5.0,2.0,2024-03-31
+TE240922,C1350,Customer_39,France,CNC Cutting Tools,Drill Bit Φ10mm,75,30.0,12.0,2024-03-02
+TE240923,C1194,Customer_21,Australia,Hand Tools,Pruning Shears,235,12.0,4.8,2024-03-07
+TE240924,C1083,Customer_300,Ghana,Hand Tools,Steel Pickaxe,269,8.0,3.2,2024-08-26
+TE240925,C1364,Customer_480,UK,CNC Cutting Tools,Drill Bit Φ10mm,51,30.0,12.0,2024-11-01
+TE240926,C1027,Customer_397,Senegal,CNC Cutting Tools,Lathe Tool Bit,94,18.0,7.2,2024-06-03
+TE240927,C1252,Customer_405,Thailand,Hand Tools,Iron Rake,137,7.5,3.0,2024-12-28
+TE240928,C1163,Customer_270,France,CNC Cutting Tools,Drill Bit Φ10mm,76,30.0,12.0,2024-02-04
+TE240929,C1403,Customer_259,UK,CNC Cutting Tools,End Mill Holder,78,50.0,20.0,2024-07-25
+TE240930,C1048,Customer_179,France,CNC Cutting Tools,Face Mill Cutter,94,120.0,48.0,2024-06-18
+TE240931,C1170,Customer_185,Japan,CNC Cutting Tools,Lathe Tool Bit,77,18.0,7.2,2024-08-31
+TE240932,C1288,Customer_422,Sweden,Hand Tools,Hand Saw,104,10.0,4.0,2024-02-28
+TE240933,C1343,Customer_178,Australia,Hand Tools,Seedling Tray,428,3.5,1.4,2024-11-10
+TE240934,C1471,Customer_319,Italy,CNC Cutting Tools,Carbide End Mill Φ6mm,97,25.0,10.5,2024-06-13
+TE240935,C1196,Customer_469,Nigeria,CNC Cutting Tools,Indexable Insert TNMG1604,59,3.8,1.5,2024-05-11
+TE240936,C1277,Customer_371,Italy,CNC Cutting Tools,End Mill Holder,57,50.0,20.0,2024-09-20
+TE240937,C1412,Customer_261,Australia,CNC Cutting Tools,Carbide End Mill Φ6mm,47,25.0,10.5,2024-11-29
+TE240938,C1099,Customer_165,Vietnam,Hand Tools,Garden Hoe,185,6.5,2.6,2024-10-02
+TE240939,C1274,Customer_4,Brazil,CNC Cutting Tools,Face Mill Cutter,95,120.0,48.0,2024-11-18
+TE240940,C1397,Customer_110,Uganda,Hand Tools,Steel Mattock,153,8.5,3.4,2024-04-15
+TE240941,C1276,Customer_425,Spain,Hand Tools,Watering Can,496,6.0,2.4,2024-08-10
+TE240942,C1332,Customer_419,Senegal,Hand Tools,Watering Can,451,6.0,2.4,2024-03-19
+TE240943,C1013,Customer_236,Spain,Hand Tools,Steel Pickaxe,144,8.0,3.2,2024-02-07
+TE240944,C1028,Customer_92,Nigeria,Hand Tools,Pruning Shears,136,12.0,4.8,2024-10-21
+TE240945,C1421,Customer_117,Cameroon,Hand Tools,Steel Mattock,298,8.5,3.4,2024-08-18
+TE240946,C1323,Customer_208,Australia,CNC Cutting Tools,Carbide End Mill Φ6mm,59,25.0,10.5,2024-12-10
+TE240947,C1061,Customer_274,Germany,CNC Cutting Tools,Taper Shank Drill,89,28.0,11.2,2024-02-02
+TE240948,C1388,Customer_382,Thailand,Hand Tools,Watering Can,137,6.0,2.4,2024-07-02
+TE240949,C1476,Customer_258,USA,Hand Tools,Gardening Gloves,451,4.0,1.6,2024-06-03
+TE240950,C1311,Customer_45,Italy,CNC Cutting Tools,Reamer Φ12mm,58,40.0,16.0,2024-07-21
+TE240951,C1421,Customer_339,Germany,CNC Cutting Tools,Drill Bit Φ10mm,78,30.0,12.0,2024-04-22
+TE240952,C1070,Customer_383,Canada,CNC Cutting Tools,End Mill Holder,47,50.0,20.0,2024-11-20
+TE240953,C1074,Customer_153,Mexico,CNC Cutting Tools,Taper Shank Drill,92,28.0,11.2,2024-07-10
+TE240954,C1491,Customer_487,Germany,Hand Tools,Wheelbarrow,384,45.0,18.0,2024-03-13
+TE240955,C1064,Customer_22,Germany,CNC Cutting Tools,Lathe Tool Bit,60,18.0,7.2,2024-10-02
+TE240956,C1281,Customer_485,USA,CNC Cutting Tools,Face Mill Cutter,54,120.0,48.0,2024-04-18
+TE240957,C1212,Customer_464,Mexico,Hand Tools,Pruning Shears,172,12.0,4.8,2024-03-23
+TE240958,C1095,Customer_114,Brazil,CNC Cutting Tools,Ball Nose End Mill,34,35.0,14.0,2024-02-28
+TE240959,C1093,Customer_344,Kenya,CNC Cutting Tools,Carbide End Mill Φ6mm,80,25.0,10.5,2024-08-24
+TE240960,C1331,Customer_282,USA,CNC Cutting Tools,Milling Cutter Set,18,300.0,120.0,2024-05-08
+TE240961,C1051,Customer_102,Sweden,CNC Cutting Tools,Reamer Φ12mm,52,40.0,16.0,2024-07-01
+TE240962,C1066,Customer_344,Mexico,Hand Tools,Garden Hoe,245,6.5,2.6,2024-11-13
+TE240963,C1036,Customer_461,France,CNC Cutting Tools,Reamer Φ12mm,67,40.0,16.0,2024-06-17
+TE240964,C1316,Customer_338,Japan,CNC Cutting Tools,Lathe Tool Bit,29,18.0,7.2,2024-10-16
+TE240965,C1291,Customer_187,Kenya,Hand Tools,Steel Mattock,186,8.5,3.4,2024-01-03
+TE240966,C1161,Customer_127,Nigeria,Hand Tools,Watering Can,478,6.0,2.4,2024-11-24
+TE240967,C1224,Customer_142,Ghana,Hand Tools,Steel Shovel,447,7.2,2.9,2024-06-18
+TE240968,C1450,Customer_246,Australia,CNC Cutting Tools,Threading Tap M8,49,5.0,2.0,2024-09-06
+TE240969,C1283,Customer_56,France,CNC Cutting Tools,Lathe Tool Bit,20,18.0,7.2,2024-05-23
+TE240970,C1440,Customer_424,UK,CNC Cutting Tools,End Mill Holder,35,50.0,20.0,2024-05-14
+TE240971,C1376,Customer_454,Brazil,Hand Tools,Watering Can,138,6.0,2.4,2024-01-10
+TE240972,C1435,Customer_260,Brazil,Hand Tools,Wheelbarrow,397,45.0,18.0,2024-10-23
+TE240973,C1208,Customer_394,Thailand,Hand Tools,Seedling Tray,118,3.5,1.4,2024-10-09
+TE240974,C1134,Customer_279,Cameroon,Hand Tools,Pruning Shears,341,12.0,4.8,2024-11-30
+TE240975,C1397,Customer_77,Canada,CNC Cutting Tools,Face Mill Cutter,85,120.0,48.0,2024-05-28
+TE240976,C1069,Customer_238,India,Hand Tools,Garden Hoe,303,6.5,2.6,2024-07-05
+TE240977,C1258,Customer_6,Mexico,Hand Tools,Wheelbarrow,414,45.0,18.0,2024-12-16
+TE240978,C1085,Customer_388,Vietnam,CNC Cutting Tools,Reamer Φ12mm,30,40.0,16.0,2024-04-01
+TE240979,C1290,Customer_486,Thailand,Hand Tools,Wheelbarrow,174,45.0,18.0,2024-09-04
+TE240980,C1481,Customer_184,Germany,CNC Cutting Tools,Reamer Φ12mm,39,40.0,16.0,2024-02-02
+TE240981,C1136,Customer_190,Italy,CNC Cutting Tools,Milling Cutter Set,36,300.0,120.0,2024-09-22
+TE240982,C1465,Customer_406,Canada,CNC Cutting Tools,Reamer Φ12mm,68,40.0,16.0,2024-01-24
+TE240983,C1021,Customer_333,Japan,CNC Cutting Tools,Taper Shank Drill,76,28.0,11.2,2024-11-20
+TE240984,C1425,Customer_141,Ghana,CNC Cutting Tools,Ball Nose End Mill,84,35.0,14.0,2024-10-05
+TE240985,C1292,Customer_90,Canada,CNC Cutting Tools,Slotting Cutter,56,80.0,32.0,2024-10-27
+TE240986,C1335,Customer_460,Ghana,Hand Tools,Pruning Shears,228,12.0,4.8,2024-07-11
+TE240987,C1499,Customer_465,France,CNC Cutting Tools,Slotting Cutter,55,80.0,32.0,2024-06-25
+TE240988,C1250,Customer_406,India,Hand Tools,Hoe with Long Handle,103,7.0,2.8,2024-09-13
+TE240989,C1452,Customer_72,Australia,CNC Cutting Tools,Face Mill Cutter,19,120.0,48.0,2024-09-20
+TE240990,C1330,Customer_144,France,Hand Tools,Steel Shovel,180,7.2,2.9,2024-07-04
+TE240991,C1309,Customer_368,Kenya,Hand Tools,Hand Saw,217,10.0,4.0,2024-07-31
+TE240992,C1416,Customer_170,Spain,Hand Tools,Garden Fork,445,6.8,2.7,2024-09-02
+TE240993,C1246,Customer_108,Thailand,Hand Tools,Hand Saw,310,10.0,4.0,2024-01-12
+TE240994,C1125,Customer_23,UK,CNC Cutting Tools,Lathe Tool Bit,30,18.0,7.2,2024-03-09
+TE240995,C1323,Customer_263,Germany,CNC Cutting Tools,Lathe Tool Bit,28,18.0,7.2,2024-01-29
+TE240996,C1086,Customer_133,Senegal,CNC Cutting Tools,End Mill Holder,61,50.0,20.0,2024-11-02
+TE240997,C1497,Customer_289,Brazil,Hand Tools,Seedling Tray,468,3.5,1.4,2024-12-04
+TE240998,C1421,Customer_146,Egypt,CNC Cutting Tools,Face Mill Cutter,67,120.0,48.0,2024-11-06
+TE240999,C1242,Customer_445,India,Hand Tools,Wooden Handle Axe,310,9.0,3.6,2024-11-03
+TE241000,C1074,Customer_407,Thailand,Hand Tools,Gardening Gloves,193,4.0,1.6,2024-11-15
+TE241001,C1338,Customer_262,Italy,CNC Cutting Tools,Taper Shank Drill,97,28.0,11.2,2024-06-24
+TE241002,C1473,Customer_233,Brazil,Hand Tools,Garden Hoe,217,6.5,2.6,2024-07-12
+TE241003,C1198,Customer_68,USA,Hand Tools,Wooden Handle Axe,367,9.0,3.6,2024-09-15
+TE241004,C1351,Customer_215,Ghana,Hand Tools,Hoe with Long Handle,149,7.0,2.8,2024-03-31
+TE241005,C1244,Customer_462,Brazil,Hand Tools,Steel Pickaxe,372,8.0,3.2,2024-09-14
+TE241006,C1386,Customer_61,USA,CNC Cutting Tools,Milling Cutter Set,26,300.0,120.0,2024-11-04
+TE241007,C1277,Customer_424,Germany,CNC Cutting Tools,Milling Cutter Set,93,300.0,120.0,2024-08-08
+TE241008,C1268,Customer_216,Canada,Hand Tools,Steel Pickaxe,457,8.0,3.2,2024-09-28
+TE241009,C1220,Customer_118,Senegal,Hand Tools,Garden Fork,493,6.8,2.7,2024-07-14
+TE241010,C1180,Customer_302,Kenya,Hand Tools,Seedling Tray,489,3.5,1.4,2024-12-22
+TE241011,C1295,Customer_51,Australia,CNC Cutting Tools,Ball Nose End Mill,71,35.0,14.0,2024-04-29
+TE241012,C1466,Customer_440,USA,Hand Tools,Hoe with Long Handle,378,7.0,2.8,2024-07-28
+TE241013,C1132,Customer_97,Germany,Hand Tools,Watering Can,103,6.0,2.4,2024-10-22
+TE241014,C1268,Customer_61,Vietnam,CNC Cutting Tools,Slotting Cutter,93,80.0,32.0,2024-04-15
+TE241015,C1353,Customer_412,Japan,CNC Cutting Tools,Threading Tap M8,23,5.0,2.0,2024-03-20
+TE241016,C1219,Customer_334,Thailand,Hand Tools,Mini Garden Trowel,374,5.0,2.0,2024-08-04
+TE241017,C1290,Customer_188,Brazil,CNC Cutting Tools,Milling Cutter Set,60,300.0,120.0,2024-04-14
+TE241018,C1212,Customer_283,Nigeria,Hand Tools,Garden Fork,191,6.8,2.7,2024-07-08
+TE241019,C1287,Customer_285,India,Hand Tools,Mini Garden Trowel,395,5.0,2.0,2024-06-25
+TE241020,C1397,Customer_362,Canada,CNC Cutting Tools,Drill Bit Φ10mm,94,30.0,12.0,2024-03-01
+TE241021,C1383,Customer_118,Australia,CNC Cutting Tools,Taper Shank Drill,30,28.0,11.2,2024-02-21
+TE241022,C1110,Customer_261,Canada,CNC Cutting Tools,Threading Tap M8,80,5.0,2.0,2024-11-10
+TE241023,C1357,Customer_351,Spain,Hand Tools,Steel Shovel,299,7.2,2.9,2024-11-21
+TE241024,C1003,Customer_412,USA,Hand Tools,Steel Shovel,341,7.2,2.9,2024-11-03
+TE241025,C1223,Customer_46,USA,Hand Tools,Wooden Handle Axe,289,9.0,3.6,2024-02-10
+TE241026,C1312,Customer_20,Spain,Hand Tools,Seedling Tray,305,3.5,1.4,2024-11-10
+TE241027,C1336,Customer_267,Italy,Hand Tools,Hoe with Long Handle,129,7.0,2.8,2024-03-30
+TE241028,C1328,Customer_254,Australia,Hand Tools,Wooden Handle Axe,436,9.0,3.6,2024-09-22
+TE241029,C1147,Customer_100,Germany,CNC Cutting Tools,Lathe Tool Bit,75,18.0,7.2,2024-09-21
+TE241030,C1358,Customer_119,Brazil,Hand Tools,Hand Saw,118,10.0,4.0,2024-07-03
+TE241031,C1123,Customer_336,Germany,CNC Cutting Tools,Drill Bit Φ10mm,21,30.0,12.0,2024-05-21
+TE241032,C1400,Customer_205,Canada,CNC Cutting Tools,Slotting Cutter,61,80.0,32.0,2024-10-27
+TE241033,C1103,Customer_266,Germany,CNC Cutting Tools,Taper Shank Drill,18,28.0,11.2,2024-02-16
+TE241034,C1282,Customer_146,Sweden,CNC Cutting Tools,End Mill Holder,84,50.0,20.0,2024-06-27
+TE241035,C1178,Customer_494,Kenya,CNC Cutting Tools,Face Mill Cutter,87,120.0,48.0,2024-04-09
+TE241036,C1233,Customer_477,Canada,CNC Cutting Tools,Carbide End Mill Φ6mm,43,25.0,10.5,2024-03-30
+TE241037,C1209,Customer_260,USA,CNC Cutting Tools,Indexable Insert TNMG1604,74,3.8,1.5,2024-05-30
+TE241038,C1175,Customer_485,UK,CNC Cutting Tools,End Mill Holder,42,50.0,20.0,2024-10-02
+TE241039,C1417,Customer_407,Thailand,CNC Cutting Tools,Taper Shank Drill,66,28.0,11.2,2024-07-12
+TE241040,C1289,Customer_248,Nigeria,Hand Tools,Gardening Gloves,273,4.0,1.6,2024-08-22
+TE241041,C1349,Customer_236,Cameroon,Hand Tools,Wheelbarrow,114,45.0,18.0,2024-09-03
+TE241042,C1060,Customer_133,USA,CNC Cutting Tools,Milling Cutter Set,38,300.0,120.0,2024-12-12
+TE241043,C1360,Customer_118,Kenya,Hand Tools,Steel Mattock,280,8.5,3.4,2024-09-21
+TE241044,C1275,Customer_5,Spain,Hand Tools,Mini Garden Trowel,227,5.0,2.0,2024-05-27
+TE241045,C1048,Customer_205,Mexico,Hand Tools,Wheelbarrow,275,45.0,18.0,2024-02-08
+TE241046,C1284,Customer_477,France,CNC Cutting Tools,Threading Tap M8,55,5.0,2.0,2024-04-21
+TE241047,C1458,Customer_294,Italy,CNC Cutting Tools,Taper Shank Drill,97,28.0,11.2,2024-04-07
+TE241048,C1256,Customer_378,France,CNC Cutting Tools,Taper Shank Drill,40,28.0,11.2,2024-05-15
+TE241049,C1106,Customer_118,France,Hand Tools,Wooden Handle Axe,416,9.0,3.6,2024-07-01
+TE241050,C1080,Customer_399,USA,CNC Cutting Tools,Indexable Insert TNMG1604,96,3.8,1.5,2024-12-05
+TE241051,C1253,Customer_315,Germany,Hand Tools,Wheelbarrow,377,45.0,18.0,2024-01-22
+TE241052,C1435,Customer_247,Canada,CNC Cutting Tools,Threading Tap M8,73,5.0,2.0,2024-10-21
+TE241053,C1445,Customer_141,India,Hand Tools,Gardening Gloves,361,4.0,1.6,2024-05-23
+TE241054,C1204,Customer_114,Sweden,Hand Tools,Steel Shovel,127,7.2,2.9,2024-09-26
+TE241055,C1410,Customer_217,India,Hand Tools,Pruning Shears,116,12.0,4.8,2024-09-14
+TE241056,C1178,Customer_202,Uganda,Hand Tools,Gardening Gloves,189,4.0,1.6,2024-08-22
+TE241057,C1500,Customer_62,Spain,Hand Tools,Garden Fork,261,6.8,2.7,2024-12-18
+TE241058,C1005,Customer_7,Mexico,Hand Tools,Steel Mattock,397,8.5,3.4,2024-02-21
+TE241059,C1167,Customer_186,Brazil,Hand Tools,Mini Garden Trowel,195,5.0,2.0,2024-10-07
+TE241060,C1135,Customer_122,Italy,CNC Cutting Tools,Lathe Tool Bit,53,18.0,7.2,2024-07-06
+TE241061,C1095,Customer_256,Australia,Hand Tools,Steel Mattock,458,8.5,3.4,2024-07-09
+TE241062,C1187,Customer_438,Canada,Hand Tools,Garden Fork,192,6.8,2.7,2024-10-19
+TE241063,C1068,Customer_295,Spain,Hand Tools,Wheelbarrow,151,45.0,18.0,2024-05-18
+TE241064,C1412,Customer_121,Thailand,Hand Tools,Wheelbarrow,295,45.0,18.0,2024-04-10
+TE241065,C1075,Customer_410,Egypt,Hand Tools,Steel Shovel,342,7.2,2.9,2024-01-05
+TE241066,C1091,Customer_216,India,Hand Tools,Seedling Tray,422,3.5,1.4,2024-09-21
+TE241067,C1274,Customer_369,Japan,CNC Cutting Tools,Reamer Φ12mm,48,40.0,16.0,2024-05-08
+TE241068,C1288,Customer_440,Thailand,CNC Cutting Tools,Slotting Cutter,22,80.0,32.0,2024-12-19
+TE241069,C1084,Customer_31,France,CNC Cutting Tools,Ball Nose End Mill,70,35.0,14.0,2024-11-18
+TE241070,C1050,Customer_231,Sweden,Hand Tools,Mini Garden Trowel,284,5.0,2.0,2024-07-03
+TE241071,C1287,Customer_286,Senegal,Hand Tools,Mini Garden Trowel,276,5.0,2.0,2024-01-11
+TE241072,C1211,Customer_63,Canada,CNC Cutting Tools,Milling Cutter Set,87,300.0,120.0,2024-04-11
+TE241073,C1296,Customer_295,Mexico,CNC Cutting Tools,End Mill Holder,32,50.0,20.0,2024-05-25
+TE241074,C1182,Customer_167,Mexico,CNC Cutting Tools,Reamer Φ12mm,67,40.0,16.0,2024-02-10
+TE241075,C1196,Customer_315,Italy,Hand Tools,Hand Saw,174,10.0,4.0,2024-03-26
+TE241076,C1328,Customer_414,Senegal,Hand Tools,Steel Mattock,423,8.5,3.4,2024-11-09
+TE241077,C1293,Customer_208,Ghana,Hand Tools,Garden Hoe,140,6.5,2.6,2024-03-23
+TE241078,C1176,Customer_117,Japan,CNC Cutting Tools,Milling Cutter Set,47,300.0,120.0,2024-12-29
+TE241079,C1137,Customer_310,Mexico,Hand Tools,Mini Garden Trowel,327,5.0,2.0,2024-07-04
+TE241080,C1383,Customer_301,Vietnam,Hand Tools,Garden Fork,311,6.8,2.7,2024-03-26
+TE241081,C1095,Customer_438,Germany,CNC Cutting Tools,Taper Shank Drill,40,28.0,11.2,2024-12-04
+TE241082,C1129,Customer_482,Sweden,CNC Cutting Tools,Taper Shank Drill,20,28.0,11.2,2024-04-17
+TE241083,C1086,Customer_204,USA,CNC Cutting Tools,Indexable Insert TNMG1604,70,3.8,1.5,2024-10-07
+TE241084,C1028,Customer_14,Nigeria,Hand Tools,Pruning Shears,491,12.0,4.8,2024-02-12
+TE241085,C1054,Customer_135,Brazil,Hand Tools,Garden Hoe,435,6.5,2.6,2024-07-18
+TE241086,C1159,Customer_118,Italy,CNC Cutting Tools,Ball Nose End Mill,66,35.0,14.0,2024-11-16
+TE241087,C1065,Customer_68,Vietnam,Hand Tools,Steel Shovel,114,7.2,2.9,2024-01-18
+TE241088,C1340,Customer_183,Uganda,CNC Cutting Tools,Threading Tap M8,70,5.0,2.0,2024-08-27
+TE241089,C1500,Customer_446,Vietnam,Hand Tools,Mini Garden Trowel,380,5.0,2.0,2024-08-15
+TE241090,C1070,Customer_497,Egypt,Hand Tools,Pruning Shears,190,12.0,4.8,2024-10-29
+TE241091,C1306,Customer_234,Brazil,Hand Tools,Hand Saw,388,10.0,4.0,2024-08-10
+TE241092,C1269,Customer_328,Mexico,Hand Tools,Mini Garden Trowel,277,5.0,2.0,2024-09-03
+TE241093,C1277,Customer_117,Kenya,Hand Tools,Garden Fork,257,6.8,2.7,2024-07-06
+TE241094,C1212,Customer_134,UK,CNC Cutting Tools,Carbide End Mill Φ6mm,10,25.0,10.5,2024-09-24
+TE241095,C1418,Customer_389,Ghana,Hand Tools,Iron Rake,246,7.5,3.0,2024-08-28
+TE241096,C1274,Customer_5,Spain,CNC Cutting Tools,Reamer Φ12mm,71,40.0,16.0,2024-06-02
+TE241097,C1005,Customer_393,Australia,CNC Cutting Tools,Ball Nose End Mill,86,35.0,14.0,2024-04-28
+TE241098,C1408,Customer_4,Vietnam,CNC Cutting Tools,Face Mill Cutter,62,120.0,48.0,2024-10-14
+TE241099,C1224,Customer_203,Italy,CNC Cutting Tools,Taper Shank Drill,92,28.0,11.2,2024-07-18
+TE241100,C1425,Customer_194,France,CNC Cutting Tools,Indexable Insert TNMG1604,64,3.8,1.5,2024-11-16
+TE241101,C1123,Customer_265,Sweden,CNC Cutting Tools,Lathe Tool Bit,98,18.0,7.2,2024-12-16
+TE241102,C1140,Customer_146,Mexico,Hand Tools,Pruning Shears,237,12.0,4.8,2024-07-30
+TE241103,C1097,Customer_437,USA,Hand Tools,Steel Shovel,248,7.2,2.9,2024-02-26
+TE241104,C1327,Customer_234,Brazil,Hand Tools,Mini Garden Trowel,458,5.0,2.0,2024-11-14
+TE241105,C1252,Customer_97,Japan,Hand Tools,Steel Shovel,125,7.2,2.9,2024-09-30
+TE241106,C1012,Customer_96,South Africa,CNC Cutting Tools,Ball Nose End Mill,44,35.0,14.0,2024-03-05
+TE241107,C1367,Customer_225,Sweden,Hand Tools,Wooden Handle Axe,146,9.0,3.6,2024-03-18
+TE241108,C1008,Customer_253,France,CNC Cutting Tools,Slotting Cutter,49,80.0,32.0,2024-09-12
+TE241109,C1191,Customer_238,Spain,Hand Tools,Steel Pickaxe,269,8.0,3.2,2024-02-11
+TE241110,C1432,Customer_385,Egypt,CNC Cutting Tools,Carbide End Mill Φ6mm,44,25.0,10.5,2024-07-19
+TE241111,C1037,Customer_279,India,Hand Tools,Wooden Handle Axe,228,9.0,3.6,2024-07-14
+TE241112,C1425,Customer_7,UK,CNC Cutting Tools,Taper Shank Drill,41,28.0,11.2,2024-07-16
+TE241113,C1395,Customer_500,Australia,CNC Cutting Tools,Taper Shank Drill,14,28.0,11.2,2024-04-11
+TE241114,C1236,Customer_377,Nigeria,Hand Tools,Pruning Shears,440,12.0,4.8,2024-04-16
+TE241115,C1243,Customer_200,Spain,Hand Tools,Mini Garden Trowel,265,5.0,2.0,2024-03-22
+TE241116,C1323,Customer_373,Germany,CNC Cutting Tools,End Mill Holder,76,50.0,20.0,2024-03-03
+TE241117,C1130,Customer_247,Mexico,CNC Cutting Tools,Face Mill Cutter,56,120.0,48.0,2024-01-27
+TE241118,C1443,Customer_342,France,Hand Tools,Garden Hoe,220,6.5,2.6,2024-11-20
+TE241119,C1223,Customer_167,Germany,CNC Cutting Tools,Ball Nose End Mill,84,35.0,14.0,2024-03-02
+TE241120,C1203,Customer_405,Italy,CNC Cutting Tools,Carbide End Mill Φ6mm,84,25.0,10.5,2024-12-19
+TE241121,C1244,Customer_353,Brazil,Hand Tools,Iron Rake,494,7.5,3.0,2024-02-15
+TE241122,C1128,Customer_81,India,Hand Tools,Hand Saw,416,10.0,4.0,2024-06-22
+TE241123,C1477,Customer_497,South Africa,Hand Tools,Hand Saw,130,10.0,4.0,2024-01-31
+TE241124,C1183,Customer_331,UK,Hand Tools,Pruning Shears,154,12.0,4.8,2024-03-05
+TE241125,C1250,Customer_120,Japan,CNC Cutting Tools,End Mill Holder,92,50.0,20.0,2024-06-26
+TE241126,C1413,Customer_457,Australia,CNC Cutting Tools,Face Mill Cutter,12,120.0,48.0,2024-12-18
+TE241127,C1194,Customer_184,Spain,CNC Cutting Tools,Ball Nose End Mill,15,35.0,14.0,2024-09-05
+TE241128,C1362,Customer_225,Thailand,Hand Tools,Pruning Shears,456,12.0,4.8,2024-09-07
+TE241129,C1098,Customer_291,France,CNC Cutting Tools,Threading Tap M8,51,5.0,2.0,2024-08-27
+TE241130,C1141,Customer_445,Ghana,Hand Tools,Seedling Tray,383,3.5,1.4,2024-03-23
+TE241131,C1036,Customer_272,UK,CNC Cutting Tools,Ball Nose End Mill,43,35.0,14.0,2024-10-04
+TE241132,C1188,Customer_233,Germany,CNC Cutting Tools,Milling Cutter Set,74,300.0,120.0,2024-07-13
+TE241133,C1376,Customer_95,Uganda,CNC Cutting Tools,Lathe Tool Bit,56,18.0,7.2,2024-11-13
+TE241134,C1123,Customer_165,Spain,Hand Tools,Hand Saw,375,10.0,4.0,2024-07-17
+TE241135,C1098,Customer_269,Spain,Hand Tools,Gardening Gloves,382,4.0,1.6,2024-03-19
+TE241136,C1314,Customer_145,Japan,CNC Cutting Tools,Milling Cutter Set,51,300.0,120.0,2024-02-26
+TE241137,C1050,Customer_268,Mexico,Hand Tools,Steel Pickaxe,166,8.0,3.2,2024-04-01
+TE241138,C1448,Customer_17,France,CNC Cutting Tools,Reamer Φ12mm,34,40.0,16.0,2024-02-20
+TE241139,C1017,Customer_293,Mexico,Hand Tools,Steel Mattock,436,8.5,3.4,2024-09-07
+TE241140,C1270,Customer_320,Spain,Hand Tools,Mini Garden Trowel,125,5.0,2.0,2024-07-06
+TE241141,C1114,Customer_311,Spain,Hand Tools,Steel Pickaxe,206,8.0,3.2,2024-12-01
+TE241142,C1252,Customer_476,Cameroon,Hand Tools,Garden Hoe,339,6.5,2.6,2024-11-23
+TE241143,C1032,Customer_185,Thailand,Hand Tools,Seedling Tray,312,3.5,1.4,2024-07-07
+TE241144,C1407,Customer_363,USA,CNC Cutting Tools,Lathe Tool Bit,44,18.0,7.2,2024-09-27
+TE241145,C1021,Customer_376,USA,CNC Cutting Tools,Ball Nose End Mill,19,35.0,14.0,2024-04-20
+TE241146,C1492,Customer_266,USA,Hand Tools,Watering Can,218,6.0,2.4,2024-09-29
+TE241147,C1198,Customer_98,France,CNC Cutting Tools,Milling Cutter Set,41,300.0,120.0,2024-10-18
+TE241148,C1321,Customer_486,France,CNC Cutting Tools,Taper Shank Drill,81,28.0,11.2,2024-07-31
+TE241149,C1383,Customer_55,Sweden,Hand Tools,Hoe with Long Handle,283,7.0,2.8,2024-12-11
+TE241150,C1235,Customer_360,Mexico,Hand Tools,Seedling Tray,153,3.5,1.4,2024-03-26
+TE241151,C1406,Customer_93,Vietnam,Hand Tools,Pruning Shears,272,12.0,4.8,2024-12-02
+TE241152,C1081,Customer_274,South Africa,Hand Tools,Garden Fork,280,6.8,2.7,2024-06-10
+TE241153,C1282,Customer_167,Ghana,Hand Tools,Steel Mattock,491,8.5,3.4,2024-11-20
+TE241154,C1221,Customer_423,Sweden,Hand Tools,Hoe with Long Handle,223,7.0,2.8,2024-10-15
+TE241155,C1280,Customer_110,Canada,CNC Cutting Tools,End Mill Holder,42,50.0,20.0,2024-07-03
+TE241156,C1493,Customer_232,Australia,CNC Cutting Tools,Slotting Cutter,10,80.0,32.0,2024-01-18
+TE241157,C1146,Customer_306,Germany,CNC Cutting Tools,Drill Bit Φ10mm,48,30.0,12.0,2024-01-04
+TE241158,C1154,Customer_114,France,Hand Tools,Iron Rake,111,7.5,3.0,2024-12-19
+TE241159,C1422,Customer_142,Senegal,Hand Tools,Pruning Shears,384,12.0,4.8,2024-10-19
+TE241160,C1475,Customer_293,UK,CNC Cutting Tools,Carbide End Mill Φ6mm,68,25.0,10.5,2024-07-01
+TE241161,C1080,Customer_71,Italy,Hand Tools,Seedling Tray,398,3.5,1.4,2024-05-07
+TE241162,C1120,Customer_132,Kenya,CNC Cutting Tools,Indexable Insert TNMG1604,83,3.8,1.5,2024-07-23
+TE241163,C1292,Customer_470,France,CNC Cutting Tools,Indexable Insert TNMG1604,51,3.8,1.5,2024-09-04
+TE241164,C1089,Customer_250,Kenya,Hand Tools,Watering Can,459,6.0,2.4,2024-10-22
+TE241165,C1420,Customer_465,USA,CNC Cutting Tools,Milling Cutter Set,48,300.0,120.0,2024-01-20
+TE241166,C1375,Customer_414,Thailand,Hand Tools,Garden Hoe,499,6.5,2.6,2024-01-29
+TE241167,C1472,Customer_395,Japan,Hand Tools,Seedling Tray,322,3.5,1.4,2024-08-01
+TE241168,C1477,Customer_445,UK,CNC Cutting Tools,Face Mill Cutter,93,120.0,48.0,2024-11-04
+TE241169,C1476,Customer_6,Brazil,CNC Cutting Tools,Milling Cutter Set,58,300.0,120.0,2024-01-28
+TE241170,C1157,Customer_269,Germany,CNC Cutting Tools,End Mill Holder,82,50.0,20.0,2024-03-17
+TE241171,C1168,Customer_258,Spain,Hand Tools,Steel Shovel,125,7.2,2.9,2024-12-10
+TE241172,C1375,Customer_202,South Africa,Hand Tools,Gardening Gloves,404,4.0,1.6,2024-10-21
+TE241173,C1259,Customer_47,France,CNC Cutting Tools,Ball Nose End Mill,60,35.0,14.0,2024-03-16
+TE241174,C1068,Customer_173,USA,CNC Cutting Tools,Lathe Tool Bit,16,18.0,7.2,2024-10-07
+TE241175,C1205,Customer_135,USA,CNC Cutting Tools,End Mill Holder,65,50.0,20.0,2024-12-23
+TE241176,C1067,Customer_391,UK,CNC Cutting Tools,End Mill Holder,35,50.0,20.0,2024-09-06
+TE241177,C1203,Customer_334,Thailand,Hand Tools,Pruning Shears,415,12.0,4.8,2024-09-25
+TE241178,C1127,Customer_125,USA,CNC Cutting Tools,Slotting Cutter,51,80.0,32.0,2024-12-16
+TE241179,C1474,Customer_295,USA,CNC Cutting Tools,Milling Cutter Set,62,300.0,120.0,2024-08-04
+TE241180,C1188,Customer_179,France,CNC Cutting Tools,Threading Tap M8,86,5.0,2.0,2024-12-01
+TE241181,C1013,Customer_395,Japan,Hand Tools,Iron Rake,415,7.5,3.0,2024-08-14
+TE241182,C1320,Customer_75,Australia,CNC Cutting Tools,Face Mill Cutter,35,120.0,48.0,2024-12-16
+TE241183,C1192,Customer_80,Sweden,Hand Tools,Wheelbarrow,143,45.0,18.0,2024-02-27
+TE241184,C1379,Customer_28,Italy,Hand Tools,Hoe with Long Handle,175,7.0,2.8,2024-05-27
+TE241185,C1008,Customer_176,Spain,CNC Cutting Tools,Indexable Insert TNMG1604,49,3.8,1.5,2024-08-18
+TE241186,C1242,Customer_12,Japan,Hand Tools,Watering Can,375,6.0,2.4,2024-04-18
+TE241187,C1105,Customer_280,Vietnam,Hand Tools,Mini Garden Trowel,380,5.0,2.0,2024-09-04
+TE241188,C1319,Customer_374,South Africa,CNC Cutting Tools,Taper Shank Drill,99,28.0,11.2,2024-12-08
+TE241189,C1010,Customer_193,Thailand,Hand Tools,Hand Saw,369,10.0,4.0,2024-01-23
+TE241190,C1131,Customer_88,USA,CNC Cutting Tools,Face Mill Cutter,99,120.0,48.0,2024-11-12
+TE241191,C1139,Customer_28,India,CNC Cutting Tools,Carbide End Mill Φ6mm,18,25.0,10.5,2024-07-17
+TE241192,C1339,Customer_139,Mexico,Hand Tools,Seedling Tray,437,3.5,1.4,2024-07-03
+TE241193,C1443,Customer_56,Germany,CNC Cutting Tools,Milling Cutter Set,59,300.0,120.0,2024-04-28
+TE241194,C1195,Customer_261,South Africa,Hand Tools,Garden Hoe,261,6.5,2.6,2024-09-05
+TE241195,C1444,Customer_306,Vietnam,CNC Cutting Tools,Drill Bit Φ10mm,35,30.0,12.0,2024-09-13
+TE241196,C1495,Customer_235,Thailand,Hand Tools,Watering Can,111,6.0,2.4,2024-01-21
+TE241197,C1127,Customer_473,Vietnam,Hand Tools,Iron Rake,350,7.5,3.0,2024-07-20
+TE241198,C1382,Customer_81,Germany,Hand Tools,Hand Saw,280,10.0,4.0,2024-06-30
+TE241199,C1321,Customer_155,Italy,CNC Cutting Tools,End Mill Holder,45,50.0,20.0,2024-02-01
+TE241200,C1321,Customer_132,Uganda,CNC Cutting Tools,Carbide End Mill Φ6mm,81,25.0,10.5,2024-05-23
